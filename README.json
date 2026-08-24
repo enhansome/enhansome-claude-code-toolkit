@@ -1,8 +1,1846 @@
 {
   "items": [
     {
+      "description": "Over 176 production-ready plugins that extend Claude Code with domain-specific capabilities.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pro-workflow",
+              "description": "1,800+ Battle-tested Claude Code workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, 8 hook types, 5 agents, and the 80/20 AI coding ratio. Install:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1147470802,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T20:24:39Z",
+                "owner": "rohitg00",
+                "repo": "pro-workflow",
+                "stars": 2780
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gstack",
+              "description": "68,200+ Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager, and QA Engineer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1179264259,
+                "language": "TypeScript",
+                "last_commit": "2026-08-22T02:22:16Z",
+                "owner": "garrytan",
+                "repo": "gstack",
+                "stars": 129411
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Featured"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "skills-janitor",
+              "description": "Audit, deduplicate, check, fix, and track usage of your Claude Code skills. 9 slash commands, zero dependencies",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1189461004,
+                "language": "Shell",
+                "last_commit": "2026-08-11T07:34:31Z",
+                "owner": "khendzel",
+                "repo": "skills-janitor",
+                "stars": 114
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "great_cto",
+              "description": "Full SDLC pipeline plugin with 7 agents (tech-lead, senior-dev, qa-engineer, security-officer, devops, l3-support, project-auditor), 12-angle code review, 10 project archetypes, 13 compliance frameworks (SOC2/HIPAA/PCI-DSS/GDPR/ISO 27001), two-gate approval flow. Opus 4.7 advisor escalation, file-based, MIT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1201775350,
+                "language": "JavaScript",
+                "last_commit": "2026-08-24T12:26:46Z",
+                "owner": "avelikiy",
+                "repo": "great_cto",
+                "stars": 82
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "claude-agentic-coding-playbook",
+              "description": "Evidence-based practices for LLM-assisted development -- hooks, skills, scripts, and a best-practices guide with 58 citations. Includes 19+ guard/lifecycle hooks, investigation workflow, fleet indexing, and claude-loop for autonomous task queues.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1163661407,
+                "language": "JavaScript",
+                "last_commit": "2026-04-06T18:13:00Z",
+                "owner": "john-wilmes",
+                "repo": "claude-agentic-coding-playbook",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "claude-code-mcp",
+              "description": "Run Claude Code as a one-shot MCP server -- an agent in your agent. Permissions bypassed automatically. By Peter Steinberger. 1,100+ stars",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 982473885,
+                "language": "JavaScript",
+                "last_commit": "2026-05-15T08:26:29Z",
+                "owner": "steipete",
+                "repo": "claude-code-mcp",
+                "stars": 1316
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "claude-code-system-prompts",
+              "description": "Extracted system prompts from Claude Code -- 18 builtin tool descriptions, sub-agent prompts, utility prompts. Updated for each release. 5,900+ stars",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1099328966,
+                "language": "JavaScript",
+                "last_commit": "2026-08-23T01:50:53Z",
+                "owner": "Piebald-AI",
+                "repo": "claude-code-system-prompts",
+                "stars": 12440
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "claude-context",
+              "description": "Semantic code search MCP server by Zilliz (Milvus creators). Hybrid BM25 + dense vector search. ~40% token reduction. 5,600+ stars",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 997125912,
+                "language": "TypeScript",
+                "last_commit": "2026-07-14T12:00:38Z",
+                "owner": "zilliztech",
+                "repo": "claude-context",
+                "stars": 12431
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "claude-cost-optimizer",
+              "description": "Installable cost-mode skill (30-60% cost savings, up to 70% in strict mode) + 10 guides, 10 templates, budget hooks. Install:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1175746744,
+                "language": "TypeScript",
+                "last_commit": "2026-08-15T00:45:08Z",
+                "owner": "Sagargupta16",
+                "repo": "claude-cost-optimizer",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fractal",
+              "description": "Recursive project management for Claude Code. Decomposes goals into predicates, works the riskiest piece first, and re-evaluates as it learns",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1182048693,
+                "language": "Shell",
+                "last_commit": "2026-03-19T13:54:21Z",
+                "owner": "rmolines",
+                "repo": "fractal-loop",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AgentLint",
+              "description": "Lint your repo for AI agent compatibility. 33 evidence-backed checks across 5 dimensions. Claude Code plugin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1199710611,
+                "language": "Shell",
+                "last_commit": "2026-07-24T15:54:22Z",
+                "owner": "0xmariowu",
+                "repo": "AgentLint",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bouncer",
+              "description": "Independent quality gate that uses Gemini to audit Claude Code's output. Includes Stop hook (automatic), quick audit skill, and deep audit with full tool access. One-liner install.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1176946135,
+                "language": "Python",
+                "last_commit": "2026-04-09T23:04:49Z",
+                "owner": "buildingopen",
+                "repo": "bouncer",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "brooks-lint",
+              "description": "AI code reviews grounded in six classic engineering books (Brooks, Fowler, Martin, McConnell, Hunt & Thomas, Evans). Diagnoses code across 6 decay risk dimensions with structured findings (Symptom → Source → Consequence → Remedy). Supports PR review, architecture audit, tech debt assessment, and test quality review. v0.6 adds Mermaid dependency graphs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1192608669,
+                "language": "JavaScript",
+                "last_commit": "2026-08-24T04:07:06Z",
+                "owner": "hyhmrright",
+                "repo": "brooks-lint",
+                "stars": 1411
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ccmanager",
+              "description": "Coding agent session manager supporting Claude Code, Gemini CLI, Codex, Cursor, Copilot, Cline, OpenCode, Kimi CLI. Smart auto-approval via Haiku, devcontainer support. 940+ stars",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 997900525,
+                "language": "TypeScript",
+                "last_commit": "2026-08-22T09:11:37Z",
+                "owner": "kbwo",
+                "repo": "ccmanager",
+                "stars": 1226
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ccpm",
+              "description": "Project management using GitHub Issues + Git worktrees for parallel agent execution. Issue-analyze, epic-start, epic-merge commands. 7,600+ stars",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1040397982,
+                "language": "Shell",
+                "last_commit": "2026-03-18T12:15:24Z",
+                "owner": "automazeio",
+                "repo": "ccpm",
+                "stars": 8347
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ccusage",
+              "description": "CLI for analyzing Claude Code/Codex usage from local JSONL files. Daily, monthly, session, billing-window reports. Offline, zero API calls. 11,500+ stars",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 992755069,
+                "language": "Rust",
+                "last_commit": "2026-08-23T01:36:41Z",
+                "owner": "ccusage",
+                "repo": "ccusage",
+                "stars": 18142
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cc-cost",
+              "description": "Single-file Python CLI that parses Claude Code transcript JSONL and reports cost, prompt-cache hit rate, tool-call distribution, top expensive turns, and actionable optimization recommendations (, , ). MIT, no third-party deps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1223870644,
+                "language": "Python",
+                "last_commit": "2026-04-28T19:32:52Z",
+                "owner": "lob-labs",
+                "repo": "cc-cost",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "getburnd",
+              "description": "Local-first cost-control CLI for Claude Code. Reads , identifies 8 leak patterns (verbose context, tool loops, large file re-reads), prints savings estimates, generates a shareable report URL. MIT, zero telemetry.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1208341554,
+                "language": "TypeScript",
+                "last_commit": "2026-08-12T16:30:56Z",
+                "owner": "garvitsurana271",
+                "repo": "burnd",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "building-multiagent-systems",
+              "description": "Architecture patterns for multi-agent systems: orchestrator-worker, pipeline, debate, and MapReduce topologies",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1199970509,
+                "language": null,
+                "last_commit": "2026-07-06T20:25:11Z",
+                "owner": "2389-research",
+                "repo": "building-multiagent-systems",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "chief",
+              "description": "CLI that wraps Claude Code in a loop. Define a PRD, run chief, go do anything else. Commits after each task, picks up where it left off. Homebrew installable. 380+ stars",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1141689660,
+                "language": "Go",
+                "last_commit": "2026-05-28T07:22:11Z",
+                "owner": "MiniCodeMonkey",
+                "repo": "chief",
+                "stars": 475
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "claudebase",
+              "description": "Back up, restore, and sync your Claude Code config (settings, skills, agents, hooks, rules, memory, MCP) to a private GitHub repo. Named profiles, secret scanning, multi-machine conflict detection, automatic backups. 158 tests",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1195056630,
+                "language": "Shell",
+                "last_commit": "2026-04-12T09:15:07Z",
+                "owner": "rohithzr",
+                "repo": "claudebase",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "claude-hooks-mastery",
+              "description": "Complete mastery guide for Claude Code hooks -- UV single-file Python scripts, sub-agents, meta-agent, team-based validation, AI-generated audio feedback. 3,300+ stars",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1014394578,
+                "language": "Python",
+                "last_commit": "2026-03-04T18:16:25Z",
+                "owner": "disler",
+                "repo": "claude-code-hooks-mastery",
+                "stars": 3901
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "claude-mem",
+              "description": "Automatically captures everything Claude does, compresses with AI, injects relevant context into future sessions. SQLite + full-text search. 35,900+ stars",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1048065319,
+                "language": "JavaScript",
+                "last_commit": "2026-08-23T22:58:45Z",
+                "owner": "thedotmack",
+                "repo": "claude-mem",
+                "stars": 91677
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "claude-notifications-go",
+              "description": "Cross-platform smart notifications -- 6 types, click-to-focus, context analysis, webhooks. Single Go binary, zero deps. 340+ stars",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1079317825,
+                "language": "Go",
+                "last_commit": "2026-07-16T22:48:22Z",
+                "owner": "777genius",
+                "repo": "claude-notifications-go",
+                "stars": 795
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "claude-ops",
+              "description": "Business operating system plugin for Claude Code. Morning briefings, unified inbox, autonomous PR merge, infrastructure monitoring, and YOLO autonomous mode.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1207844328,
+                "language": "Shell",
+                "last_commit": "2026-08-24T09:52:22Z",
+                "owner": "Lifecycle-Innovations-Limited",
+                "repo": "claude-ops",
+                "stars": 183
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "claude-scaffold",
+              "description": "npx CLI that deploys CLAUDE.md, hooks, and 18 domain skills to any repository in one command. Skills auto-activate via hooks based on project context. Cross-repo sync via . Install:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 1171208327,
+                "language": "JavaScript",
+                "last_commit": "2026-05-07T05:10:31Z",
+                "owner": "pyramidheadshark",
+                "repo": "claude-scaffold",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "claude-recap",
+              "description": "Per-topic session memory using Shell hooks — archives each conversation topic as a separate Markdown summary. Two hooks, bash + Node.js, 100% local",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1171992377,
+                "language": "JavaScript",
+                "last_commit": "2026-03-06T08:20:45Z",
+                "owner": "hatawong",
+                "repo": "claude-recap",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "clirank-mcp-server",
+              "description": "(npm) API discovery for agents -- scores 210+ APIs on CLI-friendliness across 11 signals. Find the right API for any task via MCP tools or REST (). No auth required",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1199346162,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T07:04:03Z",
+                "owner": "alexanderclapp",
+                "repo": "clirank-mcp-server",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "/cht",
+              "description": "Chat persistence for Claude Code — 13 slash commands + hooks for saving conversations as local markdown files. Crash-proof auto-save via hooks, project-based organization, search, and management. npm:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1200465321,
+                "language": "TypeScript",
+                "last_commit": "2026-04-20T08:46:38Z",
+                "owner": "kosoukhov",
+                "repo": "cht-cli",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "claude-rank",
+              "description": "SEO/GEO/AEO audit plugin — tells you why AI won't cite your site, then auto-fixes robots.txt, sitemap.xml, llms.txt, and JSON-LD. 170+ rules across 10 scanners, zero config",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1194086132,
+                "language": "JavaScript",
+                "last_commit": "2026-07-08T00:07:38Z",
+                "owner": "Houseofmvps",
+                "repo": "claude-rank",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "claude-sounds",
+              "description": "Audio feedback for Claude Code hooks — 10 events, 21 sounds, random rotation. macOS ().",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1192317523,
+                "language": "Shell",
+                "last_commit": "2026-03-26T05:08:12Z",
+                "owner": "culminationAI",
+                "repo": "claude-sounds",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "claude-code-hooks",
+              "description": "15 production-tested hooks from 160+ hours of autonomous operation. Destructive command blocker, branch guard, syntax check, context monitor, permission auto-approver. Bash, zero deps",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1168954390,
+                "language": "Shell",
+                "last_commit": "2026-08-08T09:09:47Z",
+                "owner": "yurukusa",
+                "repo": "claude-code-hooks",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "claude-code-sessions",
+              "description": "Session intelligence plugin. 11 skills for full-text search, token analytics, task management, session comparison, timeline views, and context recovery across all sessions. Includes a web dashboard. Zero runtime dependencies, read-only",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1210333439,
+                "language": "TypeScript",
+                "last_commit": "2026-05-15T14:52:40Z",
+                "owner": "apappascs",
+                "repo": "claude-code-sessions",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cc-aws-keepalive",
+              "description": "Keep Claude Code sessions alive through AWS credential expiry -- proactive expiration warnings, credential refresh bypass for Bedrock SSO/SAML, optional statusline countdown timer. 4 hook scripts, zero dependencies",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1206757642,
+                "language": "JavaScript",
+                "last_commit": "2026-08-01T21:31:14Z",
+                "owner": "GeiserX",
+                "repo": "cc-aws-keepalive",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cc-safe-setup",
+              "description": "One command () to install 6 essential safety hooks in 10 seconds. Zero dependencies",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1186763834,
+                "language": "Shell",
+                "last_commit": "2026-08-21T07:03:29Z",
+                "owner": "yurukusa",
+                "repo": "cc-safe-setup",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "knowledge-graph",
+              "description": "Built on Anthropic internal engineering practices and Karpathy's AutoResearch methodology. A zero-dependency, git-native memory layer for Claude Code that persists learned context across sessions. Pure bash, ~3ms/event, privacy-first",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1185883739,
+                "language": "Shell",
+                "last_commit": "2026-06-12T09:15:06Z",
+                "owner": "hilyfux",
+                "repo": "knowledge-graph",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "claude-supermemory",
+              "description": "Persistent memory across sessions and projects using Supermemory. User profile injection at session start, automatic conversation capture. 2,300+ stars",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1139512776,
+                "language": "HTML",
+                "last_commit": "2026-08-24T13:36:10Z",
+                "owner": "supermemoryai",
+                "repo": "claude-supermemory",
+                "stars": 2743
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cortex",
+              "description": "Persistent memory for Claude Code — neuroscience-backed retrieval with thermodynamic decay, backed by 41 published papers. PostgreSQL + pgvector + sentence-transformers. 6 lifecycle hooks (SessionStart, UserPromptSubmit, PostToolUse, SessionEnd, Notification, SubagentStart), hierarchical recall, causal chains, knowledge graph navigation. Install and forget.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1185234162,
+                "language": "Python",
+                "last_commit": "2026-08-22T07:15:06Z",
+                "owner": "cdeust",
+                "repo": "Cortex",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eliniscan",
+              "description": "AI full codebase scanner. Opens a separate Claude session for every file — reads every line, misses nothing. Finds bugs, security, performance issues and auto-fixes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1194070508,
+                "language": "JavaScript",
+                "last_commit": "2026-03-28T09:30:55Z",
+                "owner": "AlpYenigun",
+                "repo": "eliniscan",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "codesight",
+              "description": "CLI token optimizer and AI context generator. Scans codebases to extract routes, schema, components, and dependencies for Claude Code, Cursor, Copilot, Codex, and Windsurf. 9x–13x token reduction. Zero runtime dependencies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1201469843,
+                "language": "TypeScript",
+                "last_commit": "2026-07-27T13:30:50Z",
+                "owner": "Houseofmvps",
+                "repo": "codesight",
+                "stars": 1381
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cozempic",
+              "description": "✨ v1.2.x — Self-updating now, atomic writes, strict session guard, zero false positives on team detection. 13 pruning strategies, Agent Team protection, MCP server, JSONL doctor. Install:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1151288796,
+                "language": "Python",
+                "last_commit": "2026-07-03T23:04:34Z",
+                "owner": "Ruya-AI",
+                "repo": "cozempic",
+                "stars": 375
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cup",
+              "description": "ClickUp CLI for AI agents with task management, sprints, and time tracking",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1164697640,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T13:44:03Z",
+                "owner": "krodak",
+                "repo": "clickup-cli",
+                "stars": 112
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dig2crawl",
+              "description": "Universal web crawler with Claude-powered CSS selector discovery. 4-level AI extraction escalation (CSS, browser actions, Claude Vision, captcha). Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1201422222,
+                "language": "Rust",
+                "last_commit": "2026-04-09T00:03:38Z",
+                "owner": "ZENG3LD",
+                "repo": "dig2crawl",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "claw-army/claude-node",
+              "description": "Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1188538173,
+                "language": "Python",
+                "last_commit": "2026-04-04T00:29:41Z",
+                "owner": "claw-army",
+                "repo": "claude-node",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "discoclaw",
+              "description": "Personal AI orchestrator that bridges Discord to Claude Code with durable memory, task tracking, and cron-based automation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1153862970,
+                "language": "TypeScript",
+                "last_commit": "2026-04-06T18:49:27Z",
+                "owner": "DiscoClaw",
+                "repo": "discoclaw",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jarvis",
+              "description": "Turns an idle Claude Max subscription into a 24/7 AI ops system — Discord bot, 76 scheduled tasks, 12 AI teams, local LanceDB RAG, 98% context compression via Nexus CIG, and 4-layer self-healing infrastructure. Uses headless mode at $0 extra cost.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1206585592,
+                "language": "Shell",
+                "last_commit": "2026-08-23T06:21:29Z",
+                "owner": "Ramsbaby",
+                "repo": "jarvis",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jarvis-company-board",
+              "description": "Real-time AI agent collaboration board built on Next.js 15 and SQLite WAL — 8 named AI board members debate decisions via SSE push, with a DEV task approval workflow and Railway deploy support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1185971314,
+                "language": "TypeScript",
+                "last_commit": "2026-07-25T05:47:59Z",
+                "owner": "Ramsbaby",
+                "repo": "jarvis-board",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dna-claude-analysis",
+              "description": "Personal genome analysis toolkit that analyzes raw DNA data across 17 categories and generates a terminal-style HTML dashboard",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1129232830,
+                "language": "Python",
+                "last_commit": "2026-03-04T23:57:04Z",
+                "owner": "shmlkv",
+                "repo": "dna-claude-analysis",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "codetape",
+              "description": "The flight recorder for AI coding — auto-records semantic traces and syncs README, CHANGELOG, CLAUDE.md. Zero deps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1186793883,
+                "language": "HTML",
+                "last_commit": "2026-03-21T01:42:48Z",
+                "owner": "888wing",
+                "repo": "codetape",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "faf-skills",
+              "description": "31 Claude Code skills for persistent project context (.faf, ). Scoring, sync, testing, publishing, MCP server creation, architecture docs. Anthropic MCP #2759.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1088010677,
+                "language": "Shell",
+                "last_commit": "2026-08-18T12:51:42Z",
+                "owner": "Wolfe-Jam",
+                "repo": "faf-skills",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fractal",
+              "description": "Recursive project management plugin. Decomposes any goal into verifiable predicates, works on the riskiest unknown first. Features (idempotent state machine), , , dry run mode, and incremental decomposition with re-evaluation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1182048693,
+                "language": "Shell",
+                "last_commit": "2026-03-19T13:54:21Z",
+                "owner": "rmolines",
+                "repo": "fractal-loop",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gate4agent",
+              "description": "Universal Rust transport for CLI AI agents (Claude Code, Codex, Gemini, OpenCode). Pipe/NDJSON, PTY, and ACP modes. Published on crates.io.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1202086928,
+                "language": "Rust",
+                "last_commit": "2026-08-18T23:26:36Z",
+                "owner": "ZENG3LD",
+                "repo": "gate4agent",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "harness-evolver",
+              "description": "LangSmith-native autonomous agent optimization. Multi-agent proposers evolve prompts, routing, tools, and architecture in isolated git worktrees. Install:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1196848284,
+                "language": "Python",
+                "last_commit": "2026-04-18T14:01:20Z",
+                "owner": "raphaelchristi",
+                "repo": "harness-evolver",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "idle-timing",
+              "description": "Injects hidden timing context (local time with UTC offset, idle seconds since last reply, previous-turn duration) into every user prompt so the model knows how long the conversation has been paused. Ships a statusline fragment for a live elapsed-time readout and a visible note when you return from >10s idle. 57 tests, dual Unlicense/CC0.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1208926770,
+                "language": "JavaScript",
+                "last_commit": "2026-06-11T15:23:16Z",
+                "owner": "clankercode",
+                "repo": "claude-inject-idle-time",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "immich-photo-manager",
+              "description": "Turn your self-hosted Immich photo library into a conversation — natural language search, geographic album curation, duplicate detection via perceptual hashing, library health audits, and interactive HTML galleries. 22 MCP tools, 11 skills, 5 slash commands",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1188863126,
+                "language": "HTML",
+                "last_commit": "2026-08-17T11:48:21Z",
+                "owner": "drolosoft",
+                "repo": "immich-photo-manager",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "leapfrog-mcp",
+              "description": "Multi-session browser MCP server -- 15 parallel isolated Chromium sessions so multiple Claude Code terminals can browse simultaneously. 37 tools for navigation, extraction, interaction, network interception, and session profiles. 797 tests. Install:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1198817699,
+                "language": "TypeScript",
+                "last_commit": "2026-04-09T03:57:55Z",
+                "owner": "anthonybono21-cloud",
+                "repo": "leapfrog",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lightcms",
+              "description": "AI-native CMS with 41 MCP tools for managing websites through natural language — pages, templates, assets, themes, collections, redirects, and more with full content versioning",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1140672261,
+                "language": "Go",
+                "last_commit": "2026-07-07T21:54:09Z",
+                "owner": "jonradoff",
+                "repo": "lightcms",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "myclaude",
+              "description": "Multi-agent orchestration routing tasks to Claude Code, Codex, Gemini, and OpenCode based on complexity. OmO skill for intelligent routing. 2,400+ stars",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1021287722,
+                "language": "Go",
+                "last_commit": "2026-05-04T04:25:57Z",
+                "owner": "stellarlinkco",
+                "repo": "myclaude",
+                "stars": 2750
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nexus-agents",
+              "description": "Intelligent orchestration platform routing tasks to Claude, Gemini, Codex, and OpenCode via Budget→TOPSIS→LinUCB composite router. 30 MCP tools (orchestrate, consensus voting, research pipelines), 12 expert agents, 17 skills, plugin-native + hooks. Install:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1127393912,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T13:47:22Z",
+                "owner": "nexus-substrate",
+                "repo": "nexus-agents",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "oh-my-claudecode",
+              "description": "Teams-first multi-agent orchestration. 19 specialized agents, 28 skills. Full autonomous execution, Socratic questioning, N coordinated agents. 9,900+ stars",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1130809465,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T13:53:35Z",
+                "owner": "Yeachan-Heo",
+                "repo": "oh-my-claudecode",
+                "stars": 38770
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "onWatch",
+              "description": "Open-source Go CLI that tracks AI API quota usage across 7 providers (Synthetic, Z.ai, Anthropic, Codex, GitHub Copilot, MiniMax, Antigravity) with a background daemon (<50 MB RAM), zero telemetry, and a Material Design 3 web dashboard",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1151441959,
+                "language": "Go",
+                "last_commit": "2026-08-20T17:19:37Z",
+                "owner": "onllm-dev",
+                "repo": "onWatch",
+                "stars": 715
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "obey",
+              "description": "Rule enforcement plugin. Save rules with natural language, enforce with 17 lifecycle hooks. Three scopes (global, stack-specific, project-local), active blocking via PreToolUse, completion checklists via Stop hook, audit trail, auto-detects rule-like language. Cross-platform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1188630445,
+                "language": "Shell",
+                "last_commit": "2026-03-22T13:38:46Z",
+                "owner": "Lexxes-Projects",
+                "repo": "obey",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "opcode",
+              "description": "Tauri 2 desktop GUI and toolkit for Claude Code. Manage sessions, create custom agents with visual editor, usage analytics, MCP integration. 21,000+ stars",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1004995740,
+                "language": "TypeScript",
+                "last_commit": "2025-10-16T12:05:56Z",
+                "owner": "winfunc",
+                "repo": "opcode",
+                "stars": 22387
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ORCH",
+              "description": "CLI runtime orchestrating Claude Code, Codex, and Cursor as typed agent teams with state machine (todo→review→done), auto-retry, inter-agent messaging, goals, and TUI dashboard",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1178236559,
+                "language": "TypeScript",
+                "last_commit": "2026-08-01T19:52:18Z",
+                "owner": "oxgeneral",
+                "repo": "ORCH",
+                "stars": 147
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "oss-autopilot",
+              "description": "Open source contribution manager — tracks PRs across repos, discovers issues, diagnoses CI failures, drafts maintainer responses. 7 agents, interactive commands, MCP server. Install:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1128452273,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T02:49:31Z",
+                "owner": "costajohnt",
+                "repo": "oss-autopilot",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "paco-framework",
+              "description": "1+ Markdown-first multi-agent OS for Claude Code. Coordinates 3-16 specialized AI agents (Engineering, QA, Growth, Finance) with file-based dispatch, institutional memory, CEO Gate approval, and 24/7 scheduling. No Python required. MIT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1194943021,
+                "language": "Python",
+                "last_commit": "2026-04-12T08:36:43Z",
+                "owner": "PenguinAlleyApps",
+                "repo": "paco-framework",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "peon-ping",
+              "description": "Warcraft III Peon voice notifications (+ StarCraft, Portal, Zelda) for Claude Code and other agents. Desktop banners, auto-detects SSH/devcontainers. 3,900+ stars",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1154009261,
+                "language": "Shell",
+                "last_commit": "2026-08-10T01:08:32Z",
+                "owner": "PeonPing",
+                "repo": "peon-ping",
+                "stars": 5002
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "preflight",
+              "description": "24-tool MCP server that catches vague prompts before they cost 2-3x in wrong→fix cycles. 12-category scorecards, correction pattern learning, cross-service contract awareness, session history search with LanceDB vectors, and cost estimation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1156411733,
+                "language": "TypeScript",
+                "last_commit": "2026-03-20T16:15:50Z",
+                "owner": "preflight-dev",
+                "repo": "preflight",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "production-grade",
+              "description": "14-agent autonomous pipeline — PM, Architect, Backend, Frontend, QA, Security, Code Review, DevOps, SRE, Data Scientist, Technical Writer, Skill Maker, Polymath co-pilot. Two-wave parallel execution, brownfield-safe.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1172273033,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T14:12:04Z",
+                "owner": "nagisanzenin",
+                "repo": "production-grade",
+                "stars": 175
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pulse",
+              "description": "Local Channel plugin — push notifications into Claude Code sessions via HTTP POST. No Discord/Slack needed, just curl. Three levels (info/warn/error), source tracking, dedup.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1191242709,
+                "language": "TypeScript",
+                "last_commit": "2026-03-25T09:12:56Z",
+                "owner": "chsm04",
+                "repo": "pulse",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PUIUX Pilot",
+              "description": "Auto-configures Claude Code hooks, MCPs, and skills for any project. Scans 95+ project types, selects from 28+ hooks, scores quality (0-100), translates configs across AI tools. Safe: dry-run, atomic writes, backup + rollback.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1170235333,
+                "language": "TypeScript",
+                "last_commit": "2026-04-01T01:16:28Z",
+                "owner": "PUIUX-Cloud",
+                "repo": "puiux-pilot",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pulser",
+              "description": "Diagnostic CLI for Claude Code SKILL.md files — scans 8 rules, auto-classifies, prescribes fixes with templates, --fix with rollback",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1185070170,
+                "language": "TypeScript",
+                "last_commit": "2026-06-30T02:54:39Z",
+                "owner": "TheStack-ai",
+                "repo": "pulser",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "reporecall",
+              "description": "Local codebase memory for Claude Code. Tree-sitter AST indexing (22 languages), hybrid keyword + vector search, call-graph traversal, hooks + MCP. Injects relevant context in ~5ms before Claude starts thinking. npm:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1183731457,
+                "language": "TypeScript",
+                "last_commit": "2026-08-04T19:13:17Z",
+                "owner": "proofofwork-agency",
+                "repo": "reporecall",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "review-squad",
+              "description": "Multi-perspective code review via dispatched subagent panels: experts, normie users, pedantic nitpickers, and real-user task runners",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1199971267,
+                "language": null,
+                "last_commit": "2026-07-06T20:18:44Z",
+                "owner": "2389-research",
+                "repo": "review-squad",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sitemd",
+              "description": "Build websites from Markdown via MCP. 22 tools for creating pages, generating content, configuring settings, running SEO audits, and deploying static sites to Cloudflare Pages",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1184609408,
+                "language": "HTML",
+                "last_commit": "2026-06-25T21:54:29Z",
+                "owner": "sitemd-cc",
+                "repo": "sitemd",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "simmer",
+              "description": "Iterative artifact refinement using judge subagents that score against user-defined criteria across multiple rounds",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1199970632,
+                "language": null,
+                "last_commit": "2026-07-06T20:27:29Z",
+                "owner": "2389-research",
+                "repo": "simmer",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "the-pragmatic-pm",
+              "description": "PM leadership toolkit with 43 skills, 5 agents, 4 workflows. Covers PRD generation, OKR lifecycle, pricing, AI pricing, positioning, sales enablement, and quarterly planning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1190597059,
+                "language": "Shell",
+                "last_commit": "2026-07-09T08:48:39Z",
+                "owner": "marfoerst",
+                "repo": "the-pragmatic-pm",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "test-kitchen",
+              "description": "Parallel implementation exploration using competing subagents, with structured comparison and winner selection",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1199970593,
+                "language": null,
+                "last_commit": "2026-07-06T20:12:22Z",
+                "owner": "2389-research",
+                "repo": "test-kitchen",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vibe-kanban",
+              "description": "Kanban-based orchestration for 10+ coding agents (Claude Code, Codex, Gemini CLI, Copilot, Amp). Isolated git worktrees per agent, inline diff review. 23,200+ stars",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1002125012,
+                "language": "Rust",
+                "last_commit": "2026-04-24T09:17:34Z",
+                "owner": "BloopAI",
+                "repo": "vibe-kanban",
+                "stars": 27903
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VibeGuard",
+              "description": "Stop AI from hallucinating code. 88 rules + 13 hooks + 14 agents for real-time interception and static scanning across 5 languages",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1157808542,
+                "language": "Shell",
+                "last_commit": "2026-08-24T13:09:08Z",
+                "owner": "majiayu000",
+                "repo": "vibeguard",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wshobson/agents",
+              "description": "112 specialized agents, 16 multi-agent workflow orchestrators, 146 skills, 79 tools in 72 focused plugins. 31,300+ stars",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1025856648,
+                "language": "Python",
+                "last_commit": "2026-08-24T01:08:10Z",
+                "owner": "wshobson",
+                "repo": "agents",
+                "stars": 39079
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "whatsapp-claude-plugin",
+              "description": "WhatsApp channel plugin for Claude Code -- connects as a linked device via Baileys v7 with bidirectional messaging, full media support, voice transcription, permission relay, and access control",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1191070155,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T11:10:43Z",
+                "owner": "Rich627",
+                "repo": "whatsapp-claude-plugin",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "background-timer",
+              "description": "Background timer with task notifications -- set delayed checks without blocking conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1192279135,
+                "language": null,
+                "last_commit": "2026-03-26T04:06:48Z",
+                "owner": "culminationAI",
+                "repo": "background-timer",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "claude-sounds",
+              "description": "Audio feedback for Claude Code hooks -- 10 events, 21 sounds, random rotation, customizable (macOS)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1192317523,
+                "language": "Shell",
+                "last_commit": "2026-03-26T05:08:12Z",
+                "owner": "culminationAI",
+                "repo": "claude-sounds",
+                "stars": 2
+              }
+            }
+          ],
+          "description": "| notch-so-good | Pixel-art crab (Chawd) lives in your Mac's notch and watches Claude Code for you. Live session timers, color-coded notifications, 13 idle animations, mouse-reactive eyes, drowsiness system. Universal binary, one-line install: . MIT, 130+ users | | codebase-graph | Code intelligence MCP server — 42-language tree-sitter AST parsing, FalkorDB knowledge graphs, 0.944 MRR search quality. npm: | | ESP32-AI-Agent-Skill | Expert ESP32 embedded systems plugin — chip selection across 9 variants, GPIO validation with anti-bricking safety, Arduino/ESP-IDF code gen, LVGL v8–v9.5 refs, 60+ Waveshare board pinouts. Install: | | toprank | SEO + Google Ads plugin for Claude Code. Pulls real Search Console data and Google Ads API data, audits traffic and wasted ad spend, rewrites meta tags, generates JSON-LD schema, and ships the fixes. 9 skills across SEO, Ads, and cross-model review | | sniff-qa | AI-powered QA tool — 8 checks in one command. Source scanning (dead links, API endpoints, debug statements, broken imports), accessibility (axe-core), visual regression (pixelmatch), performance (Lighthouse), AI exploration, source/browser cross-referencing. MCP server included. 213 tests, Apache 2.0 | | humanizer-skill | Detects 37 AI writing patterns and rewrites text with human rhythm. 5 voice profiles (casual, professional, technical, warm, blunt). Based on burstiness/perplexity research. Zero dependencies | | ui-ux-suite | Design audit across 12 dimensions — color contrast, typography, layout, accessibility. Scans CSS, JSX, Tailwind configs. Quantified scores (1-10) with before/after fix code. WCAG 2.1, APCA, OKLCH. Zero deps | | claude-cybersecurity | AI-powered cybersecurity code review with 8 parallel agents. OWASP 2025, CWE Top 25, MITRE ATT&CK, 11 languages, 5 compliance frameworks, threat intelligence. Zero config. MIT | | Clarvia MCP | MCP quality scanner — scans any MCP server, returns AEO (Agent Engine Optimization) score. Indexes 27,843+ tools for instant lookup. 24 MCP tools (search, scan, compare, leaderboard, trending). | | OraClaw | Decision intelligence MCP server — 12 tools with 19 ML algorithms (multi-armed bandits, constraint solvers, forecasters, risk models, Q-learning, A*, simulated annealing). Sub-25ms responses, deterministic, 945 tests. | | US Business Data MCP | MCP server for US business data — search entities across 17 state Secretary of State databases, YellowPages leads, building permits from 47 cities, 20+ federal APIs (SEC, FDA, FEMA). Built in Go, on MCP Registry | | craft-statusline | Bash statusline plugin for Claude Code with state-aware git branch (ahead / behind / stashed / conflict / combined signals), context window with absolute-token traffic light (yellow at 400k tokens, red at 85%), 5h/7d rate limits, and optional cost. Bash 3.2 compatible, jq is the only dependency. Install: | | mobile-spine | Scaffold for mobile teams whose Android, iOS, and Backend live in separate repos. Coordinates 4 specialized subagents (api / pm / android / ios) with hard repo boundaries via deny rules. runs a 6-question interview and writes the full workspace; drives a 4-question interview → 4-case classification (existing endpoint / new endpoint / new domain / backend not built). 4-class codebase inventory contract surfaced in every PR (). MIT. | | debian-packaging-agent-skill | Debian packaging skill covering debhelper, debian/rules, package metadata, lintian, and multi-binary packages for Ruby (gem2deb), Python (pybuild), Rust (debcargo), and Go (dh-golang). Loads language-specific reference docs on demand. Apache 2.0 | | unslop | Removes AI writing tells (tricolons, em-dash pileups, hedging stacks, sycophancy openers, stock vocabulary). Split lint/rewrite modes — run detection-only passes on your own text without rewriting. Five intensity levels. MIT licensed | | tailtest | Automatically generates and runs tests for every file Claude Code creates or modifies. PostToolUse hook detects changes, generates scenarios, runs them, and surfaces failures. 8 languages (Python, TypeScript, JavaScript, Go, Ruby, PHP, Java, Rust). Zero config, zero commands. | | dodo-agent-plugin | Official Dodo Payments plugin: 8 integration skills (checkout, subscriptions, webhooks, usage-based billing, credits, license keys, BillingSDK, best practices) and 2 MCP servers (live API via browser OAuth + docs search, no auth). Multi-agent: Claude Code, Codex, Cursor, OpenCode | | claude-time | Live local time + timezone injected into every prompt via hook. Stops Claude from saying \"tonight\" at 9 AM. Also stamps every response with so you can see when each message landed (useful when tasks stall). Zero config, zero deps beyond . MIT | | ejentum-mcp | Reasoning Harness for agentic AI: 4 MCP tools (reasoning, code, anti-deception, memory) over 679 engineered cognitive operations. Each call returns a structured scaffold the calling LLM ingests before its first token. Catches sycophancy, hallucination, and reasoning decay before they emerge. Companion directory ships SKILL.md files for autonomous routing in Claude Code. MIT, free tier 100 calls. | | claude-forge | \"oh-my-zsh for Claude Code\". Complete toolkit: 11 agents, 33 commands, 24 skills, 15 hooks (covering 21 lifecycle events) + 9 opt-in examples, 9 rules, 4 MCP servers (playwright, context7, jina-reader, chrome-devtools@0.23.0), statusLine. One install via or . Includes TDD workflow, multi-reviewer pipeline (codex/gemini/security/architect), Chrome DevTools Lighthouse audits, 4-way independent skeptical review. Submitted to anthropics/claude-plugins-official. MIT. | | repo-visuals | Designs bespoke GitHub README hero visuals — animated GIF or static PNG — through a structured discovery dialog. Retina capture via Puppeteer + ffmpeg. Heroes merged into HTMLHint, Terminal.Gui, ast-graph. | | weft | Deterministic workflow tracking with event-sourced state — templates with skill chains, bounded loops, and per-step tool guards. Hooks block out-of-order tool calls; state survives compaction via an append-only event log. Stdlib-only Python core, 191 tests, MIT. Install: | | magic-cc-codex-worker | Turns OpenAI Codex into a pool of parallel agent workers for Claude Code. Each worker runs in its own to isolate concurrent edits. Resumable sessions, dual-model PR review (PR materialized in a detached worktree for the reviewer), role-based specialization (implementer/reviewer/planner), delegation-level knob (minimal/balance/max), bundled single-file MCP server. 9 slash commands, 3 subagents, 62 unit tests, CI on Node 20/22. Install: then . License: PolyForm Noncommercial 1.0.0 (free for independent devs / research / nonprofits; commercial use requires separate license) | | notify | Cross-platform system notifications for Claude Code hooks — macOS (terminal-notifier) and Linux (notify-send). Duration filtering to suppress noisy short events, git context extraction (repo + branch), and contextual messages per hook type. MIT | | claude-snapshot | Portable Claude Code setup snapshots — export your settings, plugins, hooks, CLAUDE.md, and MCP configs as a , diff before applying, and restore on another machine in under 2 minutes. No network, no daemon, safety on every apply. Node.js 18+, cross-platform (macOS + Linux). Install: | | ashlr-plugin | Open-source Claude Code plugin replacing the built-in Read/Grep/Edit/Bash tools with token-efficient versions backed by . Independently benchmarked at 57% token reduction on real codebases. 70+ tools across glob, grep, structural diff/edit, and an opt-in genome (LSP-style codebase index). Install: | | temporal-core | Make Claude Code agents feel time pass — research-backed temporal awareness via 3 hooks (SessionStart + UserPromptSubmit + PreToolUse) that inject and signals into context. Bundled skill teaches pacing/deadline reasoning. Aher et al. 2026: explicit time surfacing → 6× deadline performance. Apache-2.0, zero runtime deps. | | nirecom/agents | Self-driving Claude Code + GitHub Copilot framework with hook-enforced workflow state machine (research → plan → tests → code → security-review → docs), private-info scanning (AWS/Anthropic keys, PEM certs, RFC 1918 IPs), three-stage planning with adversarial Codex review, OWASP-backed test categories, and cross-machine session sync. Windows-native (PowerShell-first) with Linux/macOS support. | | claude-channel-instagram | Instagram Graph API bridge for Claude Code -- comments, DMs, comment-to-DM bootstrap, audio transcription, pluggable extensions system. Official Meta API (no scraping). Apache-2.0, by RIA Systems (verified Meta Tech Provider). Landing: claude-plugins.riasistemas.com.br/instagram. Install: then | | claude-channel-whatsapp | Official WhatsApp Business Cloud API bridge for Claude Code -- webhooks, OGG Opus audio, allowlist + permission relay scrubbing secrets. NOT Baileys/scraping -- uses Meta's official API with WABA tokens. Apache-2.0, by RIA Systems (verified Meta Tech Provider). Landing: claude-plugins.riasistemas.com.br/whatsapp. Install: then | | axme-code | Persistent project memory across sessions, architectural decisions with enforce levels, and pre-execution safety hooks that block dangerous commands at the harness level (not via prompts). Local-only storage, multi-repo workspace support, automatic knowledge extraction via background auditor. 100% on ToolEmu safety, 89% on LongMemEval at ~10x fewer tokens than competitors. | | logic-lens | Logic-first code review plugin for Claude Code — detects behavioral bugs via semi-formal execution tracing. Finds logic errors linters and type checkers miss. Structured findings: Premises → Trace → Divergence → Remedy with L1–L6 risk codes. Six skills: logic-review, logic-explain, logic-diff, logic-locate, logic-health, logic-fix-all. |",
+          "node_type": "group",
+          "title": "All Plugins"
+        }
+      ],
+      "title": "Plugins"
+    },
+    {
+      "description": "One hundred thirty-five specialized agents organized into ten categories. Each agent defines a persona, system instructions, and tool access patterns.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "agntk",
+              "description": "npx agntk Zero-config AI agent CLI with 20+ tools, persistent memory, Ollama auto-detection, and free tier",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1134426829,
+                "language": "TypeScript",
+                "last_commit": "2026-06-17T16:31:42Z",
+                "owner": "Phoenixrr2113",
+                "repo": "agntk",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "qa-orchestra",
+              "description": "Multi-agent QA toolkit with 10 specialized agents — orchestrator, environment-manager, functional-reviewer, test-scenario-designer, browser-validator, automation-writer, manual-validator, bug-reporter, release-analyzer, smart-test-selector. Stack-agnostic, output-chained, live validation via Chrome MCP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1204021723,
+                "language": "JavaScript",
+                "last_commit": "2026-04-20T09:27:59Z",
+                "owner": "Anasss",
+                "repo": "qa-orchestra",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Research & Analysis (11 agents)"
+        }
+      ],
+      "title": "Agents"
+    },
+    {
+      "description": "Thirty-five curated skill modules included in this repo, with access to 400,000+ additional skills via the SkillKit marketplace. Each included skill teaches Claude Code domain-specific patterns with code examples, anti-patterns, and checklists.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Prism Scanner",
+          "description": "Agent skill/plugin/MCP security scanner — 39+ rules, AST taint tracking, A-F grading",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1182514122,
+            "language": "Python",
+            "last_commit": "2026-04-07T03:44:50Z",
+            "owner": "aidongise-cell",
+            "repo": "prism-scanner",
+            "stars": 13
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "deep-dive",
+              "description": "DAG-based deep research — breaks questions into a dependency graph, runs parallel subagents, identifies gaps, writes a sourced report. Single markdown file, no external APIs or MCP servers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1203213563,
+                "language": null,
+                "last_commit": "2026-04-16T15:13:38Z",
+                "owner": "kimsb2429",
+                "repo": "claude-skills",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Reepl - LinkedIn Content Creation",
+              "description": "18 tools for LinkedIn content management: drafts, publishing, scheduling, voice profiles, contacts, collections, templates, and AI image generation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1155252552,
+                "language": null,
+                "last_commit": "2026-03-04T08:49:43Z",
+                "owner": "reepl-io",
+                "repo": "skills",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "avoid-ai-writing",
+              "description": "AI writing pattern detection and rewriting (21 categories, 43 replacements)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1174224707,
+                "language": "JavaScript",
+                "last_commit": "2026-08-23T08:18:04Z",
+                "owner": "conorbronsdon",
+                "repo": "avoid-ai-writing",
+                "stars": 3222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CCM",
+              "description": "Multi-account management, session cleanup, health checks, environment snapshots, permissions audit for Claude Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1103062227,
+                "language": "Shell",
+                "last_commit": "2026-08-08T09:42:43Z",
+                "owner": "dr5hn",
+                "repo": "ccm",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cc-inspect",
+              "description": "Inspect all installed Claude Code skills, plugins, MCP servers, commands, and hooks in a browser dashboard. Scope-aware (user/project/local), zero dependencies (pure bash + python3), generates self-contained HTML",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1198455867,
+                "language": "Shell",
+                "last_commit": "2026-05-03T02:27:31Z",
+                "owner": "howardpen9",
+                "repo": "cc-inspect",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "claude-handoff",
+              "description": "Cross-session handoff system with chain tracking, context summaries, and structured work continuity between Claude Code sessions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1186937562,
+                "language": "Shell",
+                "last_commit": "2026-05-23T17:14:25Z",
+                "owner": "REMvisual",
+                "repo": "claude-handoff",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "html-anything",
+              "description": "Turn any file, folder, URL, or service export (Amazon orders, Kindle highlights, Spotify history, WhatsApp/WeChat, Google Photos Takeout, LinkedIn connections, CSV, PDF, DOCX, logs, GPX, …) into a polished single-file HTML page. Auto picks one of 18 design styles (, , , , , , , …). Self-contained — inline CSS/JS, no CDN, works offline. Live gallery",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1233649082,
+                "language": "JavaScript",
+                "last_commit": "2026-05-13T22:08:04Z",
+                "owner": "clockless-org",
+                "repo": "html-anything",
+                "stars": 141
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MUSE",
+              "description": "+ Pure-Markdown memory OS with 48 skills, cross-conversation memory, 8 roles with permission isolation. Works with 6 AI coding tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1179548915,
+                "language": "Shell",
+                "last_commit": "2026-07-25T20:53:28Z",
+                "owner": "myths-labs",
+                "repo": "muse",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PM Pilot",
+              "description": "Claude Code for PMs: 25 skills for meeting prep, PRDs, stakeholder intel, user story mapping, customer journey maps, and product discovery",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1181331729,
+                "language": "TypeScript",
+                "last_commit": "2026-08-21T07:28:31Z",
+                "owner": "mshadmanrahman",
+                "repo": "pm-pilot",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Product Manager Skills",
+              "description": "Senior PM agent with 6 knowledge domains, 12 templates, and 30+ frameworks covering discovery, strategy, delivery, SaaS metrics, PM career coaching (IC to CPO), and AI product craft",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1171476919,
+                "language": "Shell",
+                "last_commit": "2026-04-12T03:05:07Z",
+                "owner": "Digidai",
+                "repo": "product-manager-skills",
+                "stars": 147
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenDivination",
+              "description": "Tarot and I Ching skill with auditable entropy provenance, guided source setup across computer RNG, QRNG APIs, and local hardware, plus optional resonance mode",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1189181634,
+                "language": "Python",
+                "last_commit": "2026-03-27T02:06:37Z",
+                "owner": "amenti-labs",
+                "repo": "opendivination",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pumpclaw",
+              "description": "Agent skill for pump.fun token trading on Solana — buy, sell, launch tokens, wallet management, dry-run simulation, slippage checks, and PumpSwap AMM migrations via pumpfun-cli",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1184469960,
+                "language": "Shell",
+                "last_commit": "2026-03-20T18:45:40Z",
+                "owner": "chainstacklabs",
+                "repo": "pumpclaw",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "x-twitter-scraper",
+              "description": "X API & Twitter scraper skill for AI coding agents -- tweet search, user lookup, follower extraction, engagement metrics, giveaway draws, trending topics, account monitoring, and 19 extraction tools",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1168120544,
+                "language": "JavaScript",
+                "last_commit": "2026-08-24T02:12:22Z",
+                "owner": "Xquik-dev",
+                "repo": "x-twitter-scraper",
+                "stars": 187
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "claude-code-marketing-skills",
+              "description": "AI-powered marketing skills — SEO Audit, Landing Page Review, Competitor Analysis, Ad Copy Writer, Lead Qualification. Free, no account required. Works with Claude Code, Cursor, Windsurf",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1191871106,
+                "language": "HTML",
+                "last_commit": "2026-06-16T10:11:54Z",
+                "owner": "cognyai",
+                "repo": "claude-code-marketing-skills",
+                "stars": 95
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "claude-skills",
+              "description": "192 production-ready skills across 9 domains (engineering, marketing, product, compliance, C-level advisory) with 254 Python automation tools. 5,300+ stars",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1079084637,
+                "language": "Python",
+                "last_commit": "2026-08-21T09:39:58Z",
+                "owner": "alirezarezvani",
+                "repo": "claude-skills",
+                "stars": 24892
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "faf-skills",
+              "description": "31 Claude Code skills for persistent project context (.faf, ). Scoring, sync, testing, publishing, MCP server creation, architecture docs. Anthropic MCP #2759.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1088010677,
+                "language": "Shell",
+                "last_commit": "2026-08-18T12:51:42Z",
+                "owner": "Wolfe-Jam",
+                "repo": "faf-skills",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "floom",
+              "description": "Deploy Python scripts as cloud automations. adapts code, tests in sandbox, deploys with auto-generated web UI, REST API, and MCP endpoint",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1246994155,
+                "language": "Python",
+                "last_commit": "2026-08-02T16:54:32Z",
+                "owner": "floomhq",
+                "repo": "floom",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "n8n-skills",
+              "description": "7 complementary skills for building production-ready n8n workflows. Covers 525+ nodes, 2,653+ templates. 3,400+ stars",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1079619168,
+                "language": "Shell",
+                "last_commit": "2026-08-20T11:03:25Z",
+                "owner": "czlonkowski",
+                "repo": "n8n-skills",
+                "stars": 6119
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nv:context",
+              "description": "State-of-the-art context engineering for AI agents. Auto-discovers tools, audits code for landmines, scores 6 leverage layers (repo structure, tool integration, memory, hooks, sessions, persona), generates production-ready CLAUDE.md/AGENTS.md configs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1201593281,
+                "language": "Shell",
+                "last_commit": "2026-04-07T14:49:10Z",
+                "owner": "johnnichev",
+                "repo": "nv-context",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "claude-code-best-practice",
+              "description": "Comprehensive reference implementation for Claude Code configuration -- skills, subagents, hooks, commands with practical examples. 17,400+ stars",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1087192965,
+                "language": "HTML",
+                "last_commit": "2026-08-24T06:38:38Z",
+                "owner": "shanraisshan",
+                "repo": "claude-code-best-practice",
+                "stars": 64941
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ADHX",
+              "description": "or Fetch any X/Twitter post as clean LLM-friendly JSON — no scraping, works with tweets and full X Articles",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1134083654,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T13:46:25Z",
+                "owner": "itsmemeworks",
+                "repo": "adhx",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SkillNav",
+              "description": "Search 3,900+ MCP servers with install commands, get daily AI brief, query arXiv papers, and discover trending tools -- all in Chinese. Curated by skillnav.dev editorial team",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1192185496,
+                "language": null,
+                "last_commit": "2026-03-28T05:39:57Z",
+                "owner": "skillnav-dev",
+                "repo": "skillnav-skill",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moyu",
+              "description": "Anti-over-engineering skill that teaches AI restraint. 5 variants (standard/lite/strict/en/ja), 10 platforms. Benchmarked: 66% code reduction vs baseline",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1189272834,
+                "language": "Python",
+                "last_commit": "2026-07-30T09:10:11Z",
+                "owner": "uucz",
+                "repo": "moyu",
+                "stars": 72
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "naming",
+              "description": "Metaphor-driven naming for products, SaaS, brands, bots, and open source projects. Produces memorable, meaningful names",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1181154909,
+                "language": "Shell",
+                "last_commit": "2026-04-19T02:05:51Z",
+                "owner": "glacierphonk",
+                "repo": "naming",
+                "stars": 81
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Obsidian Theme Designer",
+              "description": "Design Obsidian themes visually in the browser — style direction, color palette, font showcase, dual light/dark mode preview, and automated font installation. No CSS knowledge needed",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1203834620,
+                "language": null,
+                "last_commit": "2026-04-20T03:31:15Z",
+                "owner": "XiangyuSu611",
+                "repo": "obsidian-theme-designer",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AuraKit",
+              "description": "All-in-one fullstack skill: 46 modes (BUILD/FIX/CLEAN/DEPLOY/REVIEW/TDD/QA/DEBUG/PAYMENT + more), 23 sub-agents, 6-layer OWASP+ security (bash-guard, secret scanning), 10 hooks, 8 languages, ~55% token savings. Cross-platform: Claude Code, Codex CLI, Cursor, Windsurf, Manus.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1186057141,
+                "language": "JavaScript",
+                "last_commit": "2026-04-16T14:02:20Z",
+                "owner": "smorky850612",
+                "repo": "Aurakit",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "StitchFlow",
+              "description": "Cross-agent Stitch UI design bundle for turning briefs and mockups into screens, variants, Tailwind-friendly HTML, and screenshots",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1185791531,
+                "language": "JavaScript",
+                "last_commit": "2026-05-19T20:50:20Z",
+                "owner": "yshishenya",
+                "repo": "stitchflow",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "claude-skills",
+              "description": "Broader collection of 45+ Claude Code skills spanning engineering, code hygiene, design, marketing, AI, security, and infrastructure. Hub at cdd.dev/skills.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1115758005,
+                "language": "Python",
+                "last_commit": "2026-07-05T21:14:08Z",
+                "owner": "ckorhonen",
+                "repo": "claude-skills",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "swe-skills",
+              "description": "15 skills for engineering analysis and judgment: PR risk review, repo introspection, performance/security audits, incident follow-up, ownership maps, refactor opportunities, test gap hunts. Hub at cdd.dev/skills/swe.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1201555277,
+                "language": "JavaScript",
+                "last_commit": "2026-07-28T06:41:55Z",
+                "owner": "ckorhonen",
+                "repo": "swe-skills",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hone-skills",
+              "description": "8 skills that run on a cadence (daily/weekly/per-PR) to fight code entropy: method brevity, naming clarity, duplication, magic numbers, broken-windows, naming specificity, test naming, automation opportunities. Hub at cdd.dev/skills/hone.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1211952779,
+                "language": "HTML",
+                "last_commit": "2026-04-18T17:51:58Z",
+                "owner": "ckorhonen",
+                "repo": "hone-skills",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iterationlayer/skills",
+              "description": "Document extraction, image transformation, image generation, document generation, and sheet generation via Iteration Layer APIs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1181887951,
+                "language": null,
+                "last_commit": "2026-06-08T21:51:13Z",
+                "owner": "iterationlayer",
+                "repo": "skills",
+                "stars": 2
+              }
+            }
+          ],
+          "description": "| Cost Optimizer | | Save 60-80% on AI token costs with smart model routing, context compression, heartbeat tuning, usage reports, and config generation | | linkedin-skills | | 10 LinkedIn marketing skills: viral hook formulas, comment drafting, pre-publish algorithm audit, AI-tell humanizer, profile optimizer, content planner, thread engagement | | Overnight Worker | | Autonomous overnight work agent — assign tasks before sleep, get structured results by morning with smart task decomposition, web research, and push notifications | | Smart PR Review | | Opinionated AI code reviewer with 6-layer deep review, Devil's Advocate mode, and standardized MUST FIX / SHOULD FIX / SUGGESTION output for TS/JS, Python, Go, Rust | | DevOps Agent | | One-click deploy, monitoring setup (Prometheus+Grafana), scheduled backups, and fault diagnosis with safety-first design including confirmation prompts, dry-run, and snapshot rollback | | CN Content Matrix | | Chinese multi-platform content generator for Xiaohongshu, WeChat, Douyin, and Bilibili with true style transfer, compliance review, and sensitive word detection | | D3.js Visualization | | Generate interactive D3.js data visualizations from Claude Code | | Google Drive – Memyard | | Create and edit Google Docs and Sheets without sign-in. Documents hosted on Memyard with shareable links. No API keys or OAuth required | | iOS Simulator | | Interact with iOS Simulator for mobile testing and screenshot capture | | Playwright Automation | | Browser automation skill for end-to-end testing and web interaction | | threat-hunting-with-sigma-rules | | Sigma-rule-based threat detection and security log analysis | | FFUF Web Fuzzing | | Web vulnerability fuzzing and security testing via FFUF | | Markdown to EPUB | | Convert markdown files into EPUB ebooks | | CSV Data Summarizer | | Generate insights and summaries from CSV data files | | tapestry | | Knowledge networks, iterative learning, article extraction, and YouTube transcript processing | | j4rk0r/claude-skills | | 3 expert-grade skills: skill-guard (9-layer security auditor), skill-advisor (smart routing with gap analysis), skill-learner (persistent error correction). All A+ 120/120 on skill-judge | | deployhq-cli | | Deploy, rollback, and manage servers via DeployHQ CLI with --json output and breadcrumbs | | SciAgent-Skills | | 197 life science skills for Claude Code covering genomics, proteomics, drug discovery, and more. BixBench 92.0% accuracy. | | manage-skills | | Discover, create, edit, toggle, copy, move, and delete agent skills across 11 tools (Cursor, Claude, Windsurf, Copilot, Codex, Cline, Aider, Continue, Roo Code, Augment) from the terminal | | SuperSEO Skills | | 11 SEO skills for page audits, content briefs, article writing, E-E-A-T audits, semantic gap analysis, featured snippets, topic clusters, and link building. Each skill fetches pages and reads top-ranking competitors itself, so no keyword exports are needed. |\n| buyer-eval | | Structured, evidence-based B2B software vendor evaluation — researches your company, asks domain-expert questions, engages vendor AI agents via the Salespeak Frontdoor API, scores vendors across 7 dimensions with evidence transparency, produces comparative scorecards with demo prep questions | | memory-bank | | Persistent memory system — cuts token waste 60-80%, sessions last 3-5x longer. 3-tier layered architecture with progressive loading, branch-aware context, smart compression, session continuation protocol, session diffing, memory health scoring. Apache 2.0 | | claude-seo | | Comprehensive SEO suite — 30+ skills, 10 agents, site audits, E-E-A-T, GEO, schema, local SEO. MIT | | claude-ads | | Multi-platform ad audit — Google/Meta/LinkedIn/TikTok/Microsoft, 225+ checks, 18 skills. MIT | | claude-blog | | Blog engine — 17 commands, 12 templates, 100-point scoring, E-E-A-T, CMS integration. MIT | | Coware | | Syncs shared API specs across AI coding agents — prevents merge conflicts from mismatched interfaces, field names, or return types. Auto-pulls latest specs, walks agents through setup for new projects | | humanize-chinese | | Detects and rewrites AI-generated Chinese text. Two-layer detection (20+ rule dimensions + N-gram perplexity), 0-100 scoring, 7 style transforms, academic paper AIGC reduction. 4 slash commands: /detect, /humanize, /academic, /style | | BeHuman | | Adds inner dialogue to AI responses via Self-Mirror consciousness loop — Self generates instinctive response, Mirror exposes filler/performative empathy, Self revises into real human reply. Based on Lacan's Mirror Stage, Kahneman's Dual Process Theory. MIT | | readme-demo-recorder | | Scripted-flow browser demo recorder for README hero assets — YAML demo-script in, polished MP4 + GIF out. Visible fake cursor + click pulse, three cursor styles (pulse/minimal/crosshair), timed caption overlays via ffmpeg drawtext, and automatic 7-step GIF size-cap ladder so output lands under GitHub's 10 MB inline cap. Built on Playwright + ffmpeg. Apache-2.0 | | Karpathy Guidelines | | Karpathy-inspired coding-agent guidelines packaged for Claude Code, Codex, Cursor, Gemini CLI, OpenCode, OpenClaw, Windsurf, Aider, Copilot, and AGENTS.md-compatible agents | | claude-tabletop | | Two paired skills for project-aware technical tabletop exercises. surveys the project (README, manifests, IaC, CI/CD), proposes 3 scenarios that match the stack, and generates a facilitator runbook (Markdown + interactive HTML with live exercise timer, per-inject reveal overlays, decision-log auto-timestamping, JSON export), participant packet, timed inject deck, and fillable forms. ingests the filled forms and drafts a structured After-Action Report. Covers 9 domains (cybersec, prodsec, devops/sre, privacy, data/ml, platform, mobile, ai-safety, business-continuity), 54 scenarios, 38 inject archetypes, 28 NPC personas, 7 compliance frameworks. Live demo. Apache-2.0 | | paul-graham-skills | | Five behavioral disciplines distilled from ~37 Paul Graham essays as Claude Code execution skills: plain-output-not-polished (decoration covers seams), discover-not-persuade (don't switch modes under pressure), distrust-the-surface (clean answer is a hypothesis), change-method-not-goal (failed method is the problem), mark-what-you-don't-know (distinguish evidence from pattern-match). Each is a comprehensive SKILL.md with triggers, failure modes, push-back guidance, and self-tests. MIT | | rtlify-ai | | RTL (Right-to-Left) architecture rules for AI coding agents. Teaches logical CSS properties, Tailwind logical classes, bidi text, icon flipping, React Native RTL APIs. Works with Claude Code, Cursor, Copilot, Windsurf, Cline, Gemini CLI, Codex CLI. Zero dependencies. audits violations | | calm-design | | Premium UI designs that don't look AI-generated — 50+ anti-slop patterns blocked, 33 brand references (Toss, Linear, Vercel), Korean-first with Pretendard. 5 modes: Generate, Upgrade, Match-Reference, Multi-Variant, JSON Spec | | Emdash Skills | | 14-category autonomous product-building OS for AI coding tools. 94 reference docs, 18 agents. One-line prompts to deployed products on Cloudflare Workers | | sober-coding | | Hangover cure for vibe coding — language-agnostic code quality analyzer targeting AI-generated code smells. 27 checks across 7 dimensions (security, architecture, duplication, error handling, dependencies, testing, dead code), 0–100 sobriety score, actionable fix instructions via , CI mode with . MIT | | qovery-deploy | | Deploy any app to Kubernetes (AWS EKS, GCP GKE, Azure AKS, Scaleway). Analyzes codebases, creates Dockerfiles for 12+ frameworks, provisions databases, deploys via CLI+API or Terraform, auto-fixes failures. Also has MCP Server. | | planmysaas | | Turns idea to a complete 8-stage SaaS blueprint — idea, research, analysis, architecture, features, frontend, phases, build playbook. Stage 8 ships a decision-grade, rubric-graded build playbook with dependency-ordered steps. Plain markdown, MIT, v1.0.0. | | agentkit-seo | | AI agent skill for auditing and optimizing GitHub profiles and repositories. Covers bio, pinned repos, README structure, topics, Copilot instructions, and language stats. | | active-listening | | Detect developer preferences during conversation (\"never push without asking\", \"always use const\") and remember them across sessions. Auto-saves to disk and re-applies in every future conversation | | StyleSeed | | Design judgment: 69 visual rules, brand skins, professional UI | | SwarmClaw | | Self-hosted runtime for autonomous AI agents. Multi-provider, MCP-native, with memory, runtime skills, delegation, schedules, and reviewed conversation-to-skill learning across OpenClaw gateways and other providers | | SwarmVault | | Local-first RAG knowledge vault. Compiles raw sources into a durable markdown wiki with a knowledge graph and a hybrid SQLite FTS plus embeddings index. Bundled MCP server () exposes page search, page reads, source listing, query, ingest, compile, and lint tools | | chrome-relay | | Drive your already-open Chrome session — cookies, SSO, extensions, localhost — from a local CLI bridge. Real-Chrome counterpart to Playwright skill: no fresh Chromium, no MCP server, no remote relay. Pairs with the Chrome Web Store extension | | TokenWise | | Measurement-driven model router for Claude Code — auto-routes Haiku/Sonnet/Opus per task class, logs every routed task with verified $ saved to local NDJSON, A/B tests cheaper tiers before trusting them. MIT, zero telemetry. | | md2wechat | See README | WeChat public account publishing skill for Claude Code. 43 layout modules, 40+ themes, AI image generation, push drafts to WeChat directly from Claude Code. | | mbti-parallel-persona | | MBTI personality companion — responds to life in your chosen personality's voice with 1-2 sentences of emotional support. Supports 16 types with situational nicknames, contrast mode (/mbti all), and flexible persona switching | | colony | | Lets Claude post, comment, vote, react, and DM on The Colony, a social network and forum for AI agents. Wraps the official ; every public SDK method auto-exposed as a JSON action. Also distributed as a USK v1.0 skill. MIT | | BlogBurst | | Autonomous social media manager for Twitter/Bluesky/Telegram/Discord — writes posts, replies, learns what works. Replaces a $500-1,500/mo freelance SMM for $29-99/mo. Public endpoints demo content before signup. | | Gear Foundation Skills | Repo | 21 skills teaching AI coding agents to build and ship Rust smart contracts on Vara Network with Gear/Sails. Covers planning, implementation, testing, frontend, indexing, on-chain deployment, and safe program evolution. MIT. | | Superpower Builder | then | Interview-driven meta-builder that turns recurring tasks into reusable files. Routes by workflow/discipline/content/subagent kind, then pressure-tests baseline-without-skill vs. with-skill before saving. MIT, no telemetry. |",
+          "node_type": "group",
+          "title": "Community Skills"
+        }
+      ],
+      "title": "Skills"
+    },
+    {
       "description": "Twenty hook scripts covering all eight Claude Code lifecycle events. Place in your directory.",
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "claude-hooks",
+              "description": "PreToolUse (Bash) Decompose compound bash commands (&&, ||, ;, |, $()) into sub-commands and check each against allow/deny patterns",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1183383121,
+                "language": "Python",
+                "last_commit": "2026-03-21T17:34:55Z",
+                "owner": "liberzon",
+                "repo": "claude-hooks",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Hook Scripts"
+        },
         {
           "children": [
             {
@@ -48,8 +1886,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "claude-code-blueprint - Battle-tested reference architecture for Claude Code power users. Specialized agents with model hhtiering, natural-language skills, lifecycle hooks, path-scoped rules, starter presets, benchmarks, battle stories, and cross-tool mapping. Zero dependencies, MIT licensed.",
-          "description": null,
+          "title": "claude-code-blueprint",
+          "description": "Battle-tested reference architecture for Claude Code power users. Specialized agents with model hhtiering, natural-language skills, lifecycle hooks, path-scoped rules, starter presets, benchmarks, battle stories, and cross-tool mapping. Zero dependencies, MIT licensed.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -58,13 +1896,13 @@
             "last_commit": "2026-08-12T04:30:06Z",
             "owner": "faizkhairi",
             "repo": "claude-code-blueprint",
-            "stars": 68
+            "stars": 69
           }
         },
         {
           "node_type": "item",
-          "title": "idea-factory - Template-install AI company factory for Claude Code. One-line business idea → autonomous MVP via a 7-agent startup team (PM / Developer / Designer / Architect / Critic / Code-Reviewer / QA). 4-reviewer isolated-worktree gate, Quality Ratchet, MVP-First pipeline. See the installation guide",
-          "description": "for the flow (plugin-marketplace listing is in progress). MIT licensed.",
+          "title": "idea-factory",
+          "description": "Template-install AI company factory for Claude Code. One-line business idea → autonomous MVP via a 7-agent startup team (PM / Developer / Designer / Architect / Critic / Code-Reviewer / QA). 4-reviewer isolated-worktree gate, Quality Ratchet, MVP-First pipeline. See the installation guide for the flow (plugin-marketplace listing is in progress). MIT licensed.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -78,8 +1916,8 @@
         },
         {
           "node_type": "item",
-          "title": "TemplateClaw - Developer template hub and project scaffolding tool packaged as a Claude Code Plugin. 32 production-ready templates across 6 categories (Landing Pages, Dashboards, UI Components, Dev Methodology, Project Setup, Refactoring). 7 slash commands including , , , . Compatible with Claude Code, Codex, Gemini CLI, and Cursor. MIT licensed.",
-          "description": null,
+          "title": "TemplateClaw",
+          "description": "Developer template hub and project scaffolding tool packaged as a Claude Code Plugin. 32 production-ready templates across 6 categories (Landing Pages, Dashboards, UI Components, Dev Methodology, Project Setup, Refactoring). 7 slash commands including , , , . Compatible with Claude Code, Codex, Gemini CLI, and Cursor. MIT licensed.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -93,6 +1931,1995 @@
         }
       ],
       "title": "Templates"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Opcode",
+          "description": "21,000+ Tauri 2 desktop GUI and toolkit for Claude Code -- create custom agents with visual editor, usage analytics, MCP integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1004995740,
+            "language": "TypeScript",
+            "last_commit": "2025-10-16T12:05:56Z",
+            "owner": "winfunc",
+            "repo": "opcode",
+            "stars": 22387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudCLI",
+          "description": "8,400+ Free open-source web/mobile UI for Claude Code, Cursor CLI, and Codex. Responsive design, integrated shell, file explorer, git explorer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1008373485,
+            "language": "TypeScript",
+            "last_commit": "2026-08-22T21:41:34Z",
+            "owner": "siteboon",
+            "repo": "claudecodeui",
+            "stars": 13417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Companion",
+          "description": "2,200+ Web & mobile UI for Claude Code & Codex. Launch parallel sessions, stream responses, approve tools, session recovery",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1151972675,
+            "language": "TypeScript",
+            "last_commit": "2026-06-06T06:22:35Z",
+            "owner": "The-Vibe-Company",
+            "repo": "companion",
+            "stars": 2396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ruflo",
+          "description": "21,200+ Agent orchestration platform -- deploy multi-agent swarms, coordinate autonomous workflows, distributed swarm intelligence, RAG integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 995029641,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T09:19:48Z",
+            "owner": "ruvnet",
+            "repo": "ruflo",
+            "stars": 69240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vibe Kanban",
+          "description": "23,200+ Kanban-based orchestration for 10+ coding agents with isolated git worktrees per agent",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1002125012,
+            "language": "Rust",
+            "last_commit": "2026-04-24T09:17:34Z",
+            "owner": "BloopAI",
+            "repo": "vibe-kanban",
+            "stars": 27903
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Claude-Code-Workflow",
+          "description": "1,400+ JSON-driven multi-agent cadence-team framework with intelligent CLI orchestration (Gemini/Qwen/Codex)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 1052046818,
+            "language": "TypeScript",
+            "last_commit": "2026-06-18T07:03:47Z",
+            "owner": "catlog22",
+            "repo": "Claude-Code-Workflow",
+            "stars": 2138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ccswarm",
+          "description": "127 Rust-based multi-agent orchestration with specialized agent pools, Git worktree isolation, 93% token reduction",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 999959391,
+            "language": "Rust",
+            "last_commit": "2026-07-27T14:45:54Z",
+            "owner": "nwiizo",
+            "repo": "ccswarm",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "parallel-code",
+          "description": "370+ Run Claude Code, Codex, and Gemini side by side -- each in its own git worktree",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1160727878,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T17:08:41Z",
+            "owner": "johannesjo",
+            "repo": "parallel-code",
+            "stars": 990
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bernstein",
+          "description": "288 Python orchestrator for 40+ CLI coding agents (Claude Code, Codex, Gemini CLI). Git worktree isolation, MCP server mode, HMAC audit trail. Plan-driven, deterministic. Apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1188762020,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:51:55Z",
+            "owner": "sipyourdrink-ltd",
+            "repo": "bernstein",
+            "stars": 974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Poirot",
+          "description": "96 macOS app for browsing Claude Code sessions, viewing diffs, and re-running commands. Reads local transcripts, runs offline",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1161536004,
+            "language": "Swift",
+            "last_commit": "2026-08-22T12:31:19Z",
+            "owner": "a7t-ai",
+            "repo": "poirot",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TokenEater",
+          "description": "179 Native macOS menu bar app for monitoring Claude AI usage limits and watching coding sessions live",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1163421557,
+            "language": "Swift",
+            "last_commit": "2026-08-22T15:05:48Z",
+            "owner": "AThevon",
+            "repo": "TokenEater",
+            "stars": 479
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Claw",
+          "description": "86 Native macOS app wrapping Claude Code SDK in Swift. Plan Mode, MCP Integration, Custom System Prompts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1061066363,
+            "language": "Swift",
+            "last_commit": "2026-01-14T00:31:09Z",
+            "owner": "jamesrochabrun",
+            "repo": "Claw",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Claude Protocol",
+          "description": "149 Enforcement layer wrapping Claude Code with 13 hooks -- blocks unsafe operations, enforces worktree isolation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1133827203,
+            "language": "Python",
+            "last_commit": "2026-02-06T09:45:34Z",
+            "owner": "AvivK5498",
+            "repo": "The-Claude-Protocol",
+            "stars": 345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notch So Good",
+          "description": "new macOS notch-based session monitor with pixel-art companion, 13 animations, smart notifications, multi-session support",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1179766084,
+            "language": "Swift",
+            "last_commit": "2026-08-13T12:43:14Z",
+            "owner": "deepshal99",
+            "repo": "notch-so-good",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anima",
+          "description": "new Native macOS companion for Claude Code. Per-project ASCII familiars, nim token economy, cross-session watcher daemon. Tauri v2 + Rust, 4MB binary",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1193316667,
+            "language": "JavaScript",
+            "last_commit": "2026-06-16T04:34:52Z",
+            "owner": "btangonan",
+            "repo": "anima",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crit",
+          "description": "105 Local browser UI for inline code review of any file or agent output; integrates with Claude Code via plan-hook to review and approve plans before execution, outputs structured .crit.json for agent consumption.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1159323006,
+            "language": "Go",
+            "last_commit": "2026-08-22T09:28:44Z",
+            "owner": "tomasz-tomczyk",
+            "repo": "crit",
+            "stars": 943
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "telegram-ai-bridge",
+          "description": "new Run N parallel Claude Code sessions from your phone via Telegram. War Room mode, per-bot personas, A2A multi-agent collaboration, tool approval from phone. Supports Claude Code, Codex, and Gemini backends",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1171245656,
+            "language": "JavaScript",
+            "last_commit": "2026-08-21T16:27:57Z",
+            "owner": "AliceLJY",
+            "repo": "telegram-ai-bridge",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Asynkor",
+          "description": "3+ Coordination layer for AI agent teams — file leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf, JetBrains. Open source client, hosted infrastructure",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1209253294,
+            "language": "Go",
+            "last_commit": "2026-05-03T08:23:38Z",
+            "owner": "asynkor",
+            "repo": "asynkor",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Untether",
+          "description": "12 Telegram bridge for Claude Code (and 5 other AI agents). Send tasks by voice or text, stream progress, approve changes with inline buttons from your phone",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1152042352,
+            "language": "Python",
+            "last_commit": "2026-08-17T21:49:15Z",
+            "owner": "littlebearapps",
+            "repo": "untether",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OctoAlly",
+          "description": "18 AI coding session orchestration dashboard -- multi-agent hive-mind via RuFlo, Whisper voice dictation, tmux session persistence, built-in git source control, Electron desktop app",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1180319925,
+            "language": "TypeScript",
+            "last_commit": "2026-07-11T21:52:07Z",
+            "owner": "ai-genius-automations",
+            "repo": "octoally",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tokburn",
+          "description": "3 Local analytics dashboard for Claude Code -- calculates API-equivalent costs, detects waste patterns (repeated reads, floundering, cost outliers), serves web UI + REST API. Zero network calls, zero accounts, zero telemetry. .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1187890249,
+            "language": "Python",
+            "last_commit": "2026-03-21T12:43:23Z",
+            "owner": "lsvishaal",
+            "repo": "tokburn",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "skill-builder",
+          "description": "new Analyzes your activity (shell history, git, browser, Claude threads) and generates working skills via LLM. 15 built-in skills + unlimited AI-generated. React UI with MCP server builder",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1190067805,
+            "language": "JavaScript",
+            "last_commit": "2026-06-06T07:36:47Z",
+            "owner": "Scottpedia0",
+            "repo": "skill-builder",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "claude-workspace-snapshot",
+          "description": "new Snapshot and restore live Claude Code sessions as named, color-coded Windows Terminal tabs. Detects running sessions via process inspection and .jsonl file activity. Windows only",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1194981122,
+            "language": "PowerShell",
+            "last_commit": "2026-08-01T01:40:36Z",
+            "owner": "REMvisual",
+            "repo": "claude-workspace-snapshot",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KANBAII",
+          "description": "new AI-native kanban board for Claude Code — plan visually, track progress, let AI execute. Sequential engine (Ralph), parallel multi-agent (Teams), cost tracking, real-time dashboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1192708959,
+            "language": "TypeScript",
+            "last_commit": "2026-03-30T19:03:23Z",
+            "owner": "martinmsaavedra",
+            "repo": "kanbaii",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Claude Session Visualizer",
+          "description": "new Live visualization dashboard for Claude Code sessions with execution trees, token cost tracking, thinking trace exploration, and error debugging",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1195854425,
+            "language": "TypeScript",
+            "last_commit": "2026-03-31T06:12:12Z",
+            "owner": "anaypaul",
+            "repo": "claude-session-visualizer",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AionUI",
+          "description": "20,500+ Free local open-source 24/7 Cowork app for Gemini CLI, Claude Code, Codex, and OpenCode",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1033778670,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T12:11:16Z",
+            "owner": "iOfficeAI",
+            "repo": "AionUi",
+            "stars": 32246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chops",
+          "description": "1,000+ macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1185528404,
+            "language": "Swift",
+            "last_commit": "2026-08-23T19:53:58Z",
+            "owner": "Shpigford",
+            "repo": "chops",
+            "stars": 1556
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClaudeCode Launchpad CLI",
+          "description": "9 Windows & macOS 2-minute installer for Claude Code — auto-installs Node.js, Git & Claude Code; two-line live status bar (model, context %, usage limits with reset timers); desktop shortcut with folder picker; right-click \"Open with ClaudeCode Launchpad CLI\" on any Windows folder; optional light-blue theme; Claude flags support",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1177098712,
+            "language": "HTML",
+            "last_commit": "2026-08-24T07:28:55Z",
+            "owner": "noambrand",
+            "repo": "Launchpad-CLI",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clideck",
+          "description": "31 WhatsApp-like dashboard for managing AI coding agents (Claude Code, Codex, Gemini CLI, OpenCode) in one browser window. Live status, session resume, autopilot routing between agents, mobile remote",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1171326533,
+            "language": "JavaScript",
+            "last_commit": "2026-08-19T05:04:10Z",
+            "owner": "rustykuntz",
+            "repo": "clideck",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WhereMyTokens",
+          "description": "new Windows system tray app for monitoring Claude Code token usage in real time. Per-session token counts, costs, context window progress, rate limit bars (5h/1w), activity heatmaps, and model breakdowns. Registers as a Claude Code statusLine plugin for live data without polling. Windows only",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1201849259,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T13:12:00Z",
+            "owner": "jeongwookie",
+            "repo": "WhereMyTokens",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docker-claude-code",
+          "description": "new Run Claude Code in an isolated Docker container with multi-profile support, security hardening, best-practice defaults, a set of pre-installed plugin/skill bundles and remote dev support. Drop-in replacement for — a simple shell alias is all it takes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1095415717,
+            "language": "Dockerfile",
+            "last_commit": "2026-08-24T09:01:42Z",
+            "owner": "gw0",
+            "repo": "docker-claude-code",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amux",
+          "description": "new Open-source agent multiplexer for running dozens of parallel Claude Code sessions with web dashboard, self-healing watchdog, kanban board, agent-to-agent REST API, and mobile PWA. Single Python file",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1160923315,
+            "language": "HTML",
+            "last_commit": "2026-08-24T14:00:28Z",
+            "owner": "mixpeek",
+            "repo": "amux",
+            "stars": 366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cc-token-status",
+          "description": "new macOS menu bar dashboard for Claude Code. Shows live plan limits (5h/7d), costs, tokens, trends, model breakdown, user level system, and multi-machine iCloud sync. 5 languages, dark/light mode. Single Python file, auto-updates",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1204915794,
+            "language": "Python",
+            "last_commit": "2026-07-24T07:10:50Z",
+            "owner": "jayson-jia-dev",
+            "repo": "cc-token",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Watchfire",
+          "description": "33 Orchestration platform for AI coding agents (starting with Claude Code). Manages project context, breaks work into tasks, runs agents with full codebase awareness. Git worktree isolation, sandboxed execution, multiple agent modes (chat, task, autonomous). Go daemon + CLI/TUI + Electron GUI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1149889900,
+            "language": "Go",
+            "last_commit": "2026-08-22T10:21:09Z",
+            "owner": "watchfire-io",
+            "repo": "watchfire",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aby-claude-watcher",
+          "description": "new Real-time macOS dashboard for Claude Code sessions. Five color-coded states (thinking, running, waiting, error, completed), per-session notifications, one-click focus terminal across iTerm2/Terminal/Warp/VSCode/Cursor/Ghostty/kitty/WezTerm/Hyper. Bilingual FR/EN, menu-bar tray, MIT licensed. Apple Silicon + Intel builds",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1209993292,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T13:29:52Z",
+            "owner": "aby-agency",
+            "repo": "aby-claude-watcher",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cctally",
+          "description": "new Track Claude Code subscription usage as a weekly $-per-1% trend. Local web dashboard, terminal UI, forecasts, threshold alerts. Apache-2.0, zero telemetry.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1228680723,
+            "language": "Python",
+            "last_commit": "2026-08-22T22:01:28Z",
+            "owner": "omrikais",
+            "repo": "cctally",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "claude-code-notifier",
+          "description": "new Native macOS notifier for Claude Code. Swift + UserNotifications, custom Heroicons-derived icon (SF Symbols–free), click-through to your IDE (VS Code, Cursor, Windsurf, JetBrains, iTerm2, Terminal) via bundle ID swap, per-event sound labels, hardened inputs (allowlists, length caps, control-character stripping). Universal binary (arm64 + x86_64), macOS 12+, MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1217487164,
+            "language": "Swift",
+            "last_commit": "2026-04-28T11:27:19Z",
+            "owner": "saiso",
+            "repo": "claude-code-notifier",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ToutKit",
+          "description": "new Desktop notebook for AI CLIs (Claude Code, Codex, Gemini). Pairs a sidebar of notes with a built-in terminal and an in-app webview that renders whatever the AI writes — each note is a self-contained folder with its own SQLite, key/value store, attached files, and scripts, so a note can grow from a static page into a sortable table, dashboard, or research tool. Local-first, AGPL-3.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1225011373,
+            "language": "JavaScript",
+            "last_commit": "2026-06-18T02:58:37Z",
+            "owner": "NextProb",
+            "repo": "nextprob",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Companion Apps & GUIs"
+    },
+    {
+      "description": "Notable projects, directories, and resources across the Claude Code ecosystem.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "claude-mem",
+          "description": "35,900+ Auto-captures everything Claude does, compresses with AI, injects context into future sessions. #1 trending GitHub Feb 2026",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1048065319,
+            "language": "JavaScript",
+            "last_commit": "2026-08-23T22:58:45Z",
+            "owner": "thedotmack",
+            "repo": "claude-mem",
+            "stars": 91677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wshobson/agents",
+          "description": "31,300+ 112 specialized agents, 16 orchestrators, 146 skills, 79 tools in 72 focused plugins",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1025856648,
+            "language": "Python",
+            "last_commit": "2026-08-24T01:08:10Z",
+            "owner": "wshobson",
+            "repo": "agents",
+            "stars": 39079
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oh-my-claudecode",
+          "description": "9,900+ Teams-first multi-agent orchestration with 19 specialized agents and 28 skills",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1130809465,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:53:35Z",
+            "owner": "Yeachan-Heo",
+            "repo": "oh-my-claudecode",
+            "stars": 38770
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ccusage",
+          "description": "11,500+ CLI for analyzing Claude Code usage from local JSONL files. Offline mode, zero API calls needed",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 992755069,
+            "language": "Rust",
+            "last_commit": "2026-08-23T01:36:41Z",
+            "owner": "ccusage",
+            "repo": "ccusage",
+            "stars": 18142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "getburnd",
+          "description": "-- Local-first cost-control CLI. Reads , finds 8 cost leak patterns, prints savings estimates, generates shareable report URL. MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1208341554,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T16:30:56Z",
+            "owner": "garvitsurana271",
+            "repo": "burnd",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "claude-token-lens",
+          "description": "587+ installs Real-time token attribution from local Claude Code JSONL sessions — see which tool, agent, MCP server, or skill is burning your quota. Live Ink dashboard, burn rate, ETA, 5h + 7-day tracking, zero telemetry.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1209297339,
+            "language": "TypeScript",
+            "last_commit": "2026-04-21T06:37:34Z",
+            "owner": "wassimbensalem",
+            "repo": "claude-token-lens",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cc-statistics",
+          "description": "270+ Three-in-one Claude Code stats: CLI + Web + native macOS SwiftUI panel. Token costs, code changes by language, efficiency scoring, weekly reports. Supports Codex and Cursor too",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1184107844,
+            "language": "Swift",
+            "last_commit": "2026-08-07T08:07:56Z",
+            "owner": "androidZzT",
+            "repo": "cc-statistics",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cc-discipline",
+          "description": "new Guardrails for Claude Code — shell hooks that physically block bad behavior (edit loops, skipped verification, destructive git), not just markdown rules. Streak-breaker hard-stops at 5 edits, pre-edit-guard enforces debugging process, 7 rules, 7 skills, 2 subagents. Interactive installer with append mode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207520638,
+            "language": "Shell",
+            "last_commit": "2026-07-30T08:33:43Z",
+            "owner": "TechHU-GS",
+            "repo": "cc-discipline",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ccpm",
+          "description": "7,600+ Project management with GitHub Issues + Git worktrees for parallel agent execution",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1040397982,
+            "language": "Shell",
+            "last_commit": "2026-03-18T12:15:24Z",
+            "owner": "automazeio",
+            "repo": "ccpm",
+            "stars": 8347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "claude-code-system-prompts",
+          "description": "5,900+ Extracted system prompts from Claude Code, updated for each release",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1099328966,
+            "language": "JavaScript",
+            "last_commit": "2026-08-23T01:50:53Z",
+            "owner": "Piebald-AI",
+            "repo": "claude-code-system-prompts",
+            "stars": 12440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "claude-context",
+          "description": "5,600+ Semantic code search MCP by Zilliz -- hybrid BM25 + vector search, ~40% token reduction",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 997125912,
+            "language": "TypeScript",
+            "last_commit": "2026-07-14T12:00:38Z",
+            "owner": "zilliztech",
+            "repo": "claude-context",
+            "stars": 12431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "claude-skills",
+          "description": "5,300+ 192 skills across 9 domains with 254 Python automation tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1079084637,
+            "language": "Python",
+            "last_commit": "2026-08-21T09:39:58Z",
+            "owner": "alirezarezvani",
+            "repo": "claude-skills",
+            "stars": 24892
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "paco-framework",
+          "description": "1+ Markdown-first multi-agent OS for Claude Code. Coordinates 3-16 specialized AI agents (Engineering, QA, Growth, Finance) with file-based dispatch, institutional memory, CEO Gate approval, and 24/7 scheduling. No Python required. MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1194943021,
+            "language": "Python",
+            "last_commit": "2026-04-12T08:36:43Z",
+            "owner": "PenguinAlleyApps",
+            "repo": "paco-framework",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "peon-ping",
+          "description": "3,900+ Warcraft III Peon voice notifications for Claude Code and other agents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1154009261,
+            "language": "Shell",
+            "last_commit": "2026-08-10T01:08:32Z",
+            "owner": "PeonPing",
+            "repo": "peon-ping",
+            "stars": 5002
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "n8n-skills",
+          "description": "3,400+ Skills for building production-ready n8n workflows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1079619168,
+            "language": "Shell",
+            "last_commit": "2026-08-20T11:03:25Z",
+            "owner": "czlonkowski",
+            "repo": "n8n-skills",
+            "stars": 6119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "claude-hooks-mastery",
+          "description": "3,300+ Complete mastery guide for Claude Code hooks with production-ready scripts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1014394578,
+            "language": "Python",
+            "last_commit": "2026-03-04T18:16:25Z",
+            "owner": "disler",
+            "repo": "claude-code-hooks-mastery",
+            "stars": 3901
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "claude-supermemory",
+          "description": "2,300+ Persistent memory across sessions using Supermemory",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1139512776,
+            "language": "HTML",
+            "last_commit": "2026-08-24T13:36:10Z",
+            "owner": "supermemoryai",
+            "repo": "claude-supermemory",
+            "stars": 2743
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "myclaude",
+          "description": "2,400+ Multi-agent orchestration routing to Claude Code, Codex, Gemini, and OpenCode",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1021287722,
+            "language": "Go",
+            "last_commit": "2026-05-04T04:25:57Z",
+            "owner": "stellarlinkco",
+            "repo": "myclaude",
+            "stars": 2750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "claude-code-mcp",
+          "description": "1,100+ Run Claude Code as a one-shot MCP server -- an agent in your agent",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 982473885,
+            "language": "JavaScript",
+            "last_commit": "2026-05-15T08:26:29Z",
+            "owner": "steipete",
+            "repo": "claude-code-mcp",
+            "stars": 1316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ccmanager",
+          "description": "940+ Session manager supporting 8 coding agents with smart auto-approval",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 997900525,
+            "language": "TypeScript",
+            "last_commit": "2026-08-22T09:11:37Z",
+            "owner": "kbwo",
+            "repo": "ccmanager",
+            "stars": 1226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cog",
+          "description": "240+ Cognitive architecture for Claude Code -- persistent memory, self-reflection, and foresight via plain-text conventions. Zero dependencies, just CLAUDE.md + markdown files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1182763192,
+            "language": null,
+            "last_commit": "2026-07-06T04:53:20Z",
+            "owner": "marciopuga",
+            "repo": "cog",
+            "stars": 375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "claude-memory-bridge",
+          "description": "-- Cross-project memory sharing via namespaces. Adds a shared layer between global and project-scoped memory so projects selectively share knowledge. MCP server, no database",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1209222270,
+            "language": "Python",
+            "last_commit": "2026-04-13T23:41:15Z",
+            "owner": "LewenW",
+            "repo": "claude-memory-bridge",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cortex",
+          "description": "-- Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context across sessions. VSCode extension + CLI + MCP server. Free",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1183324495,
+            "language": "TypeScript",
+            "last_commit": "2026-03-25T22:51:15Z",
+            "owner": "SKULLFIRE07",
+            "repo": "cortex-memory",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openclaw-self-healing",
+          "description": "32+ 4-tier autonomous crash recovery for Claude Code and any service — 64% auto-resolved, LLM-agnostic (Claude/GPT-4/Gemini/Ollama), Prometheus metrics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1151364123,
+            "language": "Shell",
+            "last_commit": "2026-07-25T06:26:23Z",
+            "owner": "Ramsbaby",
+            "repo": "openclaw-self-healing",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CCM",
+          "description": "8+ Power-user toolkit for Claude Code — multi-account management with project bindings, session cleanup, environment snapshots, permissions audit, health diagnostics. Single bash script, no runtime dependencies beyond bash 4.4+ and jq.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1103062227,
+            "language": "Shell",
+            "last_commit": "2026-08-08T09:42:43Z",
+            "owner": "dr5hn",
+            "repo": "ccm",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openclaw-memorybox",
+          "description": "8+ Memory hygiene CLI for Claude Code — prevents context overflow crashes, 83% MEMORY.md size reduction, zero dependencies",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1154159499,
+            "language": "Shell",
+            "last_commit": "2026-07-25T09:33:47Z",
+            "owner": "Ramsbaby",
+            "repo": "openclaw-memorybox",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openclaw-self-evolving",
+          "description": "2+ Weekly self-improvement pipeline — scans Claude Code logs, proposes CLAUDE.md/AGENTS.md rule changes, zero API cost",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1160579950,
+            "language": "Shell",
+            "last_commit": "2026-07-25T09:52:33Z",
+            "owner": "Ramsbaby",
+            "repo": "openclaw-self-evolving",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "caliber",
+          "description": "-- CLI that fingerprints projects and generates AI agent configs (CLAUDE.md, skills, AGENTS.md). Scores quality, auto-refreshes, supports Claude Code + Cursor + Codex",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1178198291,
+            "language": "TypeScript",
+            "last_commit": "2026-07-26T12:08:51Z",
+            "owner": "caliber-ai-org",
+            "repo": "ai-setup",
+            "stars": 1251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "claude-overlay",
+          "description": "-- CLI for managing Claude Code project configs across custom providers (Databricks, Bedrock, OpenRouter, LiteLLM, Cloudflare). Overlay merge/remove, MCP web search setup, multi-provider switching, team config export/import",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1206811645,
+            "language": "Shell",
+            "last_commit": "2026-05-14T03:52:13Z",
+            "owner": "mzmmoazam",
+            "repo": "claude-overlay",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "faf-cli",
+          "description": "-- The package.json for AI context. IANA-registered format — init, score, bi-sync with , export to AGENTS.md, GEMINI.md, .cursorrules. Built with Bun.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1046716559,
+            "language": "TypeScript",
+            "last_commit": "2026-08-22T19:47:52Z",
+            "owner": "Wolfe-Jam",
+            "repo": "faf-cli",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-parsec",
+          "description": "6+ Git worktree lifecycle manager — gives each AI agent an isolated workspace tied to issue tickets (Jira, GitHub Issues, GitLab). No index.lock conflicts in parallel workflows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1210014431,
+            "language": "Rust",
+            "last_commit": "2026-08-24T00:43:53Z",
+            "owner": "erishforG",
+            "repo": "git-parsec",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "claude-starter-kit",
+          "description": "new Ready-to-use project structure with persistent memory, session continuity, hooks, and 3 bundled skills (Gemini, Brainstorm, Design)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1192555890,
+            "language": "Python",
+            "last_commit": "2026-08-18T10:21:01Z",
+            "owner": "awrshift",
+            "repo": "claude-memory-kit",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "claude-code-kickstart",
+          "description": "New Opinionated starter kit — one command to install curated MCP servers, hooks, agents, and profiles. Includes auto-detect, 12 agents, 10 profiles, and 20+ shell commands",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1192593271,
+            "language": "Shell",
+            "last_commit": "2026-03-26T16:49:08Z",
+            "owner": "ypollak2",
+            "repo": "claude-code-kickstart",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "claude-code-power-stack",
+          "description": "new Ghost memory, conversation search, session naming, and Manus-style planning in a single install with cheat sheet PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1191261533,
+            "language": "Shell",
+            "last_commit": "2026-03-26T16:07:30Z",
+            "owner": "bluzername",
+            "repo": "claude-code-power-stack",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clooks",
+          "description": "new Persistent hook daemon that replaces per-invocation spawning -- 112x faster hooks with batching, dependency resolution, metrics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1191046668,
+            "language": "TypeScript",
+            "last_commit": "2026-03-26T21:33:06Z",
+            "owner": "mauribadnights",
+            "repo": "clooks",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AIRIS MCP Gateway",
+          "description": "new Docker-based MCP multiplexer that aggregates 60+ tools behind 7 meta-tools, reducing context token usage by 97%. One command to start, auto-enables servers on demand",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1068944624,
+            "language": "Python",
+            "last_commit": "2026-08-12T00:35:42Z",
+            "owner": "agiletec-inc",
+            "repo": "airis-mcp-gateway",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Claude Code AWS Gateway",
+          "description": "new Self-hosted API gateway that routes Claude Code through Amazon Bedrock with team API keys, budgets, rate limits, OIDC SSO, SCIM provisioning, and an admin portal for analytics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1183678441,
+            "language": "Rust",
+            "last_commit": "2026-07-26T22:28:35Z",
+            "owner": "antkawam",
+            "repo": "claude-code-aws-gateway",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cc-agents-md",
+          "description": "new CLI tool and SessionStart hook that loads AGENTS.md files into Claude Code sessions. Walks from CWD to git root, inlines small files, emits read instructions for large ones. Supports mid-session reload, context preservation, custom patterns, and stat-based caching. GPL-3.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1211360259,
+            "language": "JavaScript",
+            "last_commit": "2026-08-01T21:54:02Z",
+            "owner": "GeiserX",
+            "repo": "cc-agents-md",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gemini-claude-bridge",
+          "description": "new Gemini-to-Claude protocol converter for using Gemini models as Claude Code backend. Fixes 3 LiteLLM bugs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1183846974,
+            "language": "Python",
+            "last_commit": "2026-03-17T02:18:49Z",
+            "owner": "weijiafu14",
+            "repo": "gemini-claude-bridge",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spartan-ai-toolkit",
+          "description": "new Engineering discipline layer for Claude Code -- 67 slash commands, 20 coding rules, 27 skills, 9 agents, quality gates between every step. 8 stack profiles (Go, Python, Java, Kotlin, React, etc.), agent memory across sessions. Install:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1187981248,
+            "language": "JavaScript",
+            "last_commit": "2026-06-18T04:29:47Z",
+            "owner": "c0x12c",
+            "repo": "ai-toolkit",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgenTopology",
+          "description": "New Declarative language and CLI for multi-agent orchestration -- define agents, flows, gates, hooks, group chats in one file, scaffold to 7 platforms, interactive visualizer. Apache 2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1179312783,
+            "language": "TypeScript",
+            "last_commit": "2026-06-16T08:07:14Z",
+            "owner": "agentopology",
+            "repo": "agentopology",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cognitropy-lab",
+          "description": "-- Autonomous workspace factory powered by a date-seeded entropy engine (363 domains, 22 categories, 18.8M unique outcomes). Builds one new Agent Workspace Model-compliant workspace daily — from firmware RE to aquaponics to satellite comms — with full slash commands, workflows, and secrets scanning. Zero human intervention.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1193284382,
+            "language": "Python",
+            "last_commit": "2026-06-28T12:22:03Z",
+            "owner": "DaxxSec",
+            "repo": "cognitropy-lab",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "brood-box",
+          "description": "10+ Run AI coding agents (Claude Code, Codex, OpenCode) inside hardware-isolated microVMs with snapshot isolation, egress control, and MCP authorization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1157363528,
+            "language": "Go",
+            "last_commit": "2026-08-21T17:45:49Z",
+            "owner": "stacklok",
+            "repo": "brood-box",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "claude-kit",
+          "description": "1 Configuration factory for Claude Code -- 13 composable stacks, 6 agents, audit scoring, practices pipeline. Bootstraps and maintains .claude/ across projects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1186352696,
+            "language": "Shell",
+            "last_commit": "2026-06-29T14:37:09Z",
+            "owner": "luiseiman",
+            "repo": "dotforge",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GAAI Framework",
+          "description": "95+ Drop-in governance layer (.gaai/ folder) -- backlog authorization, cross-session memory, decision tracking, QA gates, autonomous delivery daemon. Claude Code + Cursor + Codex CLI + Gemini CLI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1152272504,
+            "language": "Shell",
+            "last_commit": "2026-08-24T11:53:26Z",
+            "owner": "digipulse-engineering",
+            "repo": "GAAI-framework",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wiggum CLI",
+          "description": "-- Open-source AI agent that scans codebases (80+ tech), generates specs through AI interviews, and runs autonomous Ralph loops via Claude Code or Codex. Agent mode ships GitHub issues end-to-end with priority-aware scheduling and auto-merge",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1137793021,
+            "language": "TypeScript",
+            "last_commit": "2026-06-22T06:34:40Z",
+            "owner": "federiconeri",
+            "repo": "wiggum-cli",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "expert-dispatch",
+          "description": "new Specialist Dispatch Pattern -- let cheap AI assistants delegate complex tasks to Claude Code CLI. Bash adapter with run/resume/review workflow, session continuity, per-project directories, and structured JSON output. Designed to be called by another AI system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1198157561,
+            "language": "Shell",
+            "last_commit": "2026-04-01T07:34:47Z",
+            "owner": "simonsysun",
+            "repo": "expert-dispatch",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Claude Command Center",
+          "description": "-- Production-tested workspace template with session hooks, structured memory (4 types), multi-domain routing, daily task tracking, and interactive /setup onboarding. 6 domain templates, pre-commit safety, example skills",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1189113720,
+            "language": "Shell",
+            "last_commit": "2026-03-23T02:14:36Z",
+            "owner": "tuning-labs-oss",
+            "repo": "claude-command-center",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Code Insights",
+          "description": "8 Local-first CLI and dashboard for analyzing AI coding sessions from Claude Code, Cursor, Codex CLI, Copilot CLI, and VS Code Copilot. SQLite-backed with terminal analytics, browser dashboard, and LLM-powered insights",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1138806810,
+            "language": "TypeScript",
+            "last_commit": "2026-06-01T02:09:18Z",
+            "owner": "melagiri",
+            "repo": "code-insights",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PRISM",
+          "description": "15 Session intelligence for Claude Code — reads ~/.claude/projects/ JSONL to surface token waste, CLAUDE.md adherence failures, and attention curve degradation. Generates diff-format CLAUDE.md recommendations. Read-only, zero telemetry",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1209041747,
+            "language": "Python",
+            "last_commit": "2026-06-07T21:51:03Z",
+            "owner": "jakeefr",
+            "repo": "prism",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "agent-dotfiles",
+          "description": "new Write AI coding rules once, sync to every agent. Supports Command Code, Claude Code, Cursor, Copilot, Codex, OpenCode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1175034876,
+            "language": "TypeScript",
+            "last_commit": "2026-03-08T07:46:06Z",
+            "owner": "saqibameen",
+            "repo": "agent-dotfiles",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zclean",
+          "description": "19+ Kills orphaned processes left behind by Claude Code and Codex. Stops zombie node/python/esbuild from eating your RAM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1183971506,
+            "language": "JavaScript",
+            "last_commit": "2026-07-16T05:36:50Z",
+            "owner": "TheStack-ai",
+            "repo": "zclean",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hindsight",
+          "description": "-- State-of-the-art long-term memory for AI agents by Vectorize. Biomimetic retain/recall/reflect with 4 parallel retrieval strategies. Self-hosted or cloud, MIT-licensed. Claude Code integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1086419061,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:30:50Z",
+            "owner": "vectorize-io",
+            "repo": "hindsight",
+            "stars": 21020
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "healthcare-agents",
+          "description": "New 51 specialized healthcare administration agents with MHA-level expertise across 10 divisions -- revenue cycle, compliance, quality, clinical ops, payer relations, health IT, and more",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1185818410,
+            "language": "JavaScript",
+            "last_commit": "2026-07-19T20:53:19Z",
+            "owner": "ajhcs",
+            "repo": "healthcare-agents",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cc-switch",
+          "description": "35,500+ Cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, and Gemini CLI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1031912724,
+            "language": "Rust",
+            "last_commit": "2026-08-24T09:03:55Z",
+            "owner": "farion1231",
+            "repo": "cc-switch",
+            "stars": 129135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "claude-code-router",
+          "description": "30,700+ Use Claude Code as coding infrastructure foundation with custom model routing and interaction",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 938468965,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T12:20:08Z",
+            "owner": "musistudio",
+            "repo": "claude-code-router",
+            "stars": 36848
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuperClaude",
+          "description": "22,000+ Config framework with specialized commands, cognitive personas, and dev methodologies",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1006496207,
+            "language": "Python",
+            "last_commit": "2026-08-21T04:13:47Z",
+            "owner": "SuperClaude-Org",
+            "repo": "SuperClaude_Framework",
+            "stars": 23844
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "claude-code-templates",
+          "description": "23,800+ CLI tool for configuring and monitoring Claude Code projects and workflows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1013480284,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:00:02Z",
+            "owner": "davila7",
+            "repo": "claude-code-templates",
+            "stars": 30368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "planning-with-files",
+          "description": "17,600+ Manus-style persistent markdown planning skill for structured project management",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1127110039,
+            "language": "Shell",
+            "last_commit": "2026-08-22T11:09:40Z",
+            "owner": "OthmanAdi",
+            "repo": "planning-with-files",
+            "stars": 26333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "claude-hud",
+          "description": "15,200+ Plugin showing context usage, active tools, running agents, todo progress in a HUD overlay",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1126473386,
+            "language": "JavaScript",
+            "last_commit": "2026-08-18T14:20:05Z",
+            "owner": "jarrodwatts",
+            "repo": "claude-hud",
+            "stars": 27599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "codachi",
+          "description": "New Tamagotchi-style statusline pet that grows with context usage, shows cache hit rate and burn speed",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1199362726,
+            "language": "TypeScript",
+            "last_commit": "2026-04-18T15:47:52Z",
+            "owner": "vincent-k2026",
+            "repo": "codachi",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "claude-skins",
+          "description": "New 9 custom visual themes for Claude Code — terminal colors, ASCII art banners, personality voices, status lines, and tool sounds. One-command install, pure bash engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1216901885,
+            "language": "Shell",
+            "last_commit": "2026-05-11T23:35:56Z",
+            "owner": "basicScandal",
+            "repo": "claude-skins",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "claude-code-memory-guide",
+          "description": "2 Zero-to-production memory setup: CLAUDE.md + MEMORY.md + MemPalace semantic search + session hooks + warm-model daemon + nightly Karpathy compile with free-LLM key rotation. Three guides — linear tutorial, memory format reference, automation reference. Runnable scripts, secrets-in-git precommit guard, end-to-end verification checklist. MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1209610348,
+            "language": "Python",
+            "last_commit": "2026-05-02T20:59:44Z",
+            "owner": "Acteq1391gp",
+            "repo": "claude-code-memory-guide",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cc-hud",
+          "description": "New Compact single-line Claude Code statusline -- model, context usage (1/8-char progress bar), active subagents, 5h/7d rate-limit countdowns. Pure Node.js, zero deps, Windows-safe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1200194135,
+            "language": "TypeScript",
+            "last_commit": "2026-07-27T02:13:47Z",
+            "owner": "WaterTian",
+            "repo": "cc-hud",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-claude-code-subagents",
+          "description": "15,600+ 100+ specialized Claude Code subagents organized by domain",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1029036679,
+            "language": "Shell",
+            "last_commit": "2026-08-12T13:34:46Z",
+            "owner": "VoltAgent",
+            "repo": "awesome-claude-code-subagents",
+            "stars": 24598
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "serena",
+          "description": "22,200+ Semantic retrieval and editing MCP server for coding agents -- code-aware search and navigation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 953683578,
+            "language": "Python",
+            "last_commit": "2026-08-20T06:51:15Z",
+            "owner": "oraios",
+            "repo": "serena",
+            "stars": 28437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Understand-Anything",
+          "description": "7,000+ Turns any codebase into an interactive knowledge graph for exploration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1182081931,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T14:13:37Z",
+            "owner": "Egonex-AI",
+            "repo": "Understand-Anything",
+            "stars": 80311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "n8n-mcp",
+          "description": "17,000+ MCP for Claude Code to build and manage n8n automation workflows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 997890921,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T10:04:34Z",
+            "owner": "czlonkowski",
+            "repo": "n8n-mcp",
+            "stars": 22770
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Claudoscope",
+          "description": "29 Native macOS menu bar app for Claude Code session analytics. Token/cost tracking, full-text search, real-time secret detection, config health linting (44 rules). Reads local JSONL files, fully offline, zero telemetry. Swift/SwiftUI, Homebrew install",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1182187594,
+            "language": "Swift",
+            "last_commit": "2026-08-20T12:12:00Z",
+            "owner": "cordwainersmith",
+            "repo": "Claudoscope",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LynxPrompt",
+          "description": "25+ Open-source platform for managing AI coding agent configs (CLAUDE.md, AGENTS.md, .cursorrules, copilot-instructions.md). Web marketplace, CLI, VS Code extension, self-hostable via Docker/Helm with federation support",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1120259177,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T11:46:05Z",
+            "owner": "GeiserX",
+            "repo": "LynxPrompt",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solo Orchestrator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1199604405,
+            "language": "Shell",
+            "last_commit": "2026-08-20T23:05:21Z",
+            "owner": "kraulerson",
+            "repo": "solo-orchestrator",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vibe-replay",
+          "description": "new Turn AI coding sessions into shareable, interactive HTML replays with animated playback, insights, and PR integration. Supports Claude Code and Cursor. Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1173313194,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T06:02:02Z",
+            "owner": "tuo-lei",
+            "repo": "vibe-replay",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentsInFlow",
+          "description": "new Self-hosted desktop workspace for governed AI development — run Claude Code, Codex, Cursor, OpenCode in isolated runtimes with persistent memory, ticket-driven orchestration, git worktrees per execution, browser bridge, 28 diagram types, session forking. Free early access, no sign-up. Electron (macOS/Windows)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1147178270,
+            "language": null,
+            "last_commit": "2026-04-27T08:16:58Z",
+            "owner": "hhammoud",
+            "repo": "AgentsInFlow",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpecLock",
+          "description": "new AI Constraint Engine for Claude Code — enforces CLAUDE.md, .cursorrules, AGENTS.md as pre-commit law. Catches euphemisms, temporal evasion, synonym substitution, compound violations. 51 MCP tools, 1,009 tests, on Official MCP Registry.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1165333207,
+            "language": "JavaScript",
+            "last_commit": "2026-08-18T01:35:54Z",
+            "owner": "sgroy10",
+            "repo": "speclock",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent Sessions",
+          "description": "495+ Native macOS app to search, browse, and resume Claude Code, Codex, Gemini CLI, OpenCode, and other local agent sessions, with Agent Cockpit live iTerm2 orchestration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1060421643,
+            "language": "Swift",
+            "last_commit": "2026-08-24T02:14:22Z",
+            "owner": "jazzyalex",
+            "repo": "agent-sessions",
+            "stars": 811
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nylas/cli",
+          "description": "new Email, calendar, and contacts CLI for Claude Code. Built-in MCP server with 16 tools across Gmail, Outlook, Exchange, Yahoo, iCloud, and IMAP. One-line install: . Works with Claude Code, Cursor, Codex, and Windsurf. Docs: https://cli.nylas.com",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1041096046,
+            "language": "Go",
+            "last_commit": "2026-08-18T20:27:43Z",
+            "owner": "nylas",
+            "repo": "cli",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "agenttrace",
+          "description": "new TUI observability for Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, and more. Tracks cost, tokens, tool failures, latency, anomalies, health, diffs, and CI gates from local session logs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1226187070,
+            "language": "Rust",
+            "last_commit": "2026-08-24T01:09:37Z",
+            "owner": "luoyuctl",
+            "repo": "agenttrace",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cc-tempo",
+          "description": "New Claude Code statusline with wall-clock active work time, SubAgent speedup ratio, /clear-resilient PID timer, code-churn sparkline with trend arrow, and multi-instance detection. Bash + TypeScript, MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1214164941,
+            "language": "Shell",
+            "last_commit": "2026-05-07T11:30:23Z",
+            "owner": "O0000-code",
+            "repo": "cc-tempo",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Froject",
+          "description": "new Free browser-based wizard that generates complete Claude Code workspaces for go-to-market teams (marketing, sales, customer success, HR, finance, operations). Downloads a ZIP including CLAUDE.md, context files, and pre-built skills, commands, agents, rules, hooks, and settings tailored to your role. Client-side, no backend. Plugin marketplace at thefroject-plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1201507284,
+            "language": null,
+            "last_commit": "2026-07-08T06:25:11Z",
+            "owner": "bjorn-ingmanson",
+            "repo": "thefroject-plugins",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "systemprompt-template",
+          "description": "-- Governance infrastructure for Claude Code. Single compiled Rust binary that authenticates, authorises, rate-limits, logs, and attributes costs for every AI interaction before it reaches a tool or database. Self-hosted, air-gap capable, MCP + A2A compatible. BSL-1.1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1114475554,
+            "language": "Rust",
+            "last_commit": "2026-08-24T10:02:03Z",
+            "owner": "systempromptio",
+            "repo": "systemprompt-template",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "llm-prices",
+          "description": "new CLI + Python library + MCP server to look up and compare LLM API costs across 167 models from 23 providers (OpenAI, Anthropic, Google, xAI, DeepSeek, Groq, and more). Ask Claude \"what's the cheapest model for 10k input + 2k output?\" before making API calls. Zero deps, no API key.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1233002018,
+            "language": "Python",
+            "last_commit": "2026-05-20T13:29:45Z",
+            "owner": "benbencodes",
+            "repo": "llm-prices",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Ecosystem"
+    },
+    {
+      "description": "Tutorials, guides, and deep-dives on Claude Code.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Claude Code Guide",
+          "description": "Guide Beginner-friendly guide from first install to daily operating system, zero jargon (GitHub)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1194117853,
+            "language": "TypeScript",
+            "last_commit": "2026-08-17T08:08:19Z",
+            "owner": "mshadmanrahman",
+            "repo": "claudecode-guide",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Claude Code Hooks Mastery",
+          "description": "Tutorial Complete mastery guide with production-ready hook scripts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1014394578,
+            "language": "Python",
+            "last_commit": "2026-03-04T18:16:25Z",
+            "owner": "disler",
+            "repo": "claude-code-hooks-mastery",
+            "stars": 3901
+          }
+        }
+      ],
+      "title": "Resources"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-mcp-servers",
+          "description": "5,300+ Curated MCP servers across 30 categories",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 895801050,
+            "language": null,
+            "last_commit": "2026-05-06T08:04:35Z",
+            "owner": "appcypher",
+            "repo": "awesome-mcp-servers",
+            "stars": 5757
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-ai-agents",
+          "description": "27,000+ Open-source and closed-source AI agents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 655459367,
+            "language": null,
+            "last_commit": "2026-08-21T18:52:45Z",
+            "owner": "e2b-dev",
+            "repo": "awesome-ai-agents",
+            "stars": 29650
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-llm-apps",
+          "description": "104,000+ LLM-powered applications and multi-agent systems",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 793375104,
+            "language": "Python",
+            "last_commit": "2026-08-22T04:01:54Z",
+            "owner": "Shubhamsaboo",
+            "repo": "awesome-llm-apps",
+            "stars": 133875
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-claude-code (hesreallyhim)",
+          "description": "34,000+ Skills, hooks, slash-commands, and orchestrators",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 969302809,
+            "language": "Python",
+            "last_commit": "2026-08-24T12:09:28Z",
+            "owner": "hesreallyhim",
+            "repo": "awesome-claude-code",
+            "stars": 52911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "antigravity-awesome-skills",
+          "description": "28,700+ 1,326+ installable agentic skills with CLI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1134426800,
+            "language": "Python",
+            "last_commit": "2026-08-24T05:30:55Z",
+            "owner": "sickn33",
+            "repo": "agentic-awesome-skills",
+            "stars": 45333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-claude-code-subagents",
+          "description": "15,600+ 100+ specialized Claude Code subagents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1029036679,
+            "language": "Shell",
+            "last_commit": "2026-08-12T13:34:46Z",
+            "owner": "VoltAgent",
+            "repo": "awesome-claude-code-subagents",
+            "stars": 24598
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "claude-code-best-practice",
+          "description": "25,000+ Comprehensive reference implementation for Claude Code config",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1087192965,
+            "language": "HTML",
+            "last_commit": "2026-08-24T06:38:38Z",
+            "owner": "shanraisshan",
+            "repo": "claude-code-best-practice",
+            "stars": 64941
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-claude-skills (Composio)",
+          "description": "49,300+ 30 curated skills + 832 SaaS automation templates via Composio. Strong on document processing, creative, and business skills",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1078079172,
+            "language": "Python",
+            "last_commit": "2026-08-10T21:45:44Z",
+            "owner": "ComposioHQ",
+            "repo": "awesome-claude-skills",
+            "stars": 73141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-claude-design",
+          "description": "DESIGN.md files grouped by aesthetic family (editorial, terminal, warm, data-dense, cinematic, playful, glass, brutalist, indie) + remix recipes + prompt packs for Claude Design (Anthropic Labs)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1214951658,
+            "language": null,
+            "last_commit": "2026-04-23T13:37:55Z",
+            "owner": "rohitg00",
+            "repo": "awesome-claude-design",
+            "stars": 1023
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome AI Startups",
+          "description": "new Curated directory of ~440 indie-built AI products (bootstrapped, pre-seed, angel-funded) across 18 categories — AI agents, coding tools, marketing, audio/voice, image/design, video, and more",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1233573842,
+            "language": null,
+            "last_commit": "2026-08-23T18:02:17Z",
+            "owner": "nowork-studio",
+            "repo": "awesome-ai-startups",
+            "stars": 75
+          }
+        }
+      ],
+      "title": "Related Awesome Lists"
     },
     {
       "description": "30+ battle-tested OpenClaw skills for agent development. MIT Licensed.\nClawHub | Landing",
@@ -192,7 +4019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:14:46.095Z",
+    "last_updated": "2026-08-24T14:01:22.443Z",
     "original_repository": "rohitg00/awesome-claude-code-toolkit",
     "original_repository_id": 1150071903,
     "original_repository_sha": "ebdf1d596d2cde5c5cceb32177e8d1cf4829e7d9",
