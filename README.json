@@ -58,7 +58,7 @@
             "last_commit": "2026-08-12T04:30:06Z",
             "owner": "faizkhairi",
             "repo": "claude-code-blueprint",
-            "stars": 67
+            "stars": 68
           }
         },
         {
@@ -192,7 +192,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T06:55:18.234Z",
+    "last_updated": "2026-08-24T07:14:46.095Z",
     "original_repository": "rohitg00/awesome-claude-code-toolkit",
     "original_repository_id": 1150071903,
     "original_repository_sha": "ebdf1d596d2cde5c5cceb32177e8d1cf4829e7d9",
